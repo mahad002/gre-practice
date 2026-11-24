@@ -4,24 +4,23 @@ A complete self-study course for the GRE General Test, with a web app to study f
 
 **Open the web app:** https://mahad002.github.io/gre-practice/
 
+## How it works
+
+Open the site and press **Today**. It shows the steps for the day from a 62-day plan that ends on test day. Each step has a **Start** button that opens the right lesson, practice set, timed set or flashcards, and a **Mark done** button. The plan is read from `01-Plan/Study-Schedule.md`, so editing that file changes the site.
+
 ## What's inside
 
 | In the app | What it does |
 |---|---|
-| Dashboard | Countdown, today's schedule row, progress, weakest topics, quick exams |
-| Syllabus checklist | Every GRE topic with four states: Not started, Studied, Revised, Mastered |
-| Study combos | Recommended plan, maths strength, English strength, writing booster, fast track, busy week, final 7 days |
-| Daily schedule | The day-by-day plan to test day, with tick boxes |
+| Today | The day's steps, in order, with Start and Mark done buttons |
+| Your plan | All 9 weeks at a glance; open any day |
+| Practice | Question bank (674 original questions with explanations), timed exams and a mini mock, mistakes log, 600 vocab cards |
 | Lessons | 10 Quant topic lessons, QC strategy, pacing guides, 3 Verbal lessons, vocab lists, writing guide, test guides |
-| Question bank | 674 original questions with explanations (420 Quant, 104 Verbal, 150 vocab), filterable |
-| Create exam | Timed GRE-style sections, a 4-section mini mock, custom exams by topic and difficulty |
-| Mistakes log | Every miss, fixed only after two correct redos on different days |
-| Vocab cards | 600 words in 30 themed days, flashcards and quizzes |
-| Advice by stage | What high scorers do from day one to test day and after |
-| Interviews | Key points for graduate admission interviews |
-| Official resources | Links to the free official ETS downloads and the official books to buy |
+| Syllabus checklist | Every GRE topic, marked Not started, Studied, Revised or Mastered |
+| Help | How the site works, study combos (maths strength, English strength and more), advice by stage, official resources, admission interviews |
+| Progress & settings | Scores, weakest topics, test date and backup |
 
-Progress is stored in your browser. Use **Progress & backup** to download it and move it to another device.
+Progress is stored in your browser. Use **Progress & settings** to download a backup and import it on another device.
 
 ## Files
 

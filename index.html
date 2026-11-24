@@ -4,43 +4,56 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>GRE Practice</title>
-<meta name="description" content="Self-study GRE course: syllabus checklist, study combos, lessons, question bank, exam builder, vocab and advice.">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%232f5bd3'/><text x='16' y='22' font-family='Arial' font-weight='700' font-size='14' text-anchor='middle' fill='white'>GRE</text></svg>">
+<meta name="description" content="A guided 62-day GRE plan: today's steps, lessons, question bank, timed exams, vocab cards and advice.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%233a5ccc'/><text x='16' y='21' font-family='Arial' font-weight='700' font-size='12' text-anchor='middle' fill='white'>GRE</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="site/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="site/style.css?v=7">
 </head>
 <body>
 <div class="app">
   <header class="topbar">
     <button class="icon-btn menu-btn" id="menuBtn" aria-label="Open menu">☰</button>
-    <a class="brand" href="#/dashboard"><span class="logo">GRE</span><span>Practice</span></a>
+    <a class="brand" href="#/today"><span class="logo">GRE</span><span>Practice</span></a>
     <div class="top-right">
       <span class="countdown" id="countdown"></span>
-      <button class="icon-btn" id="themeBtn" aria-label="Toggle dark mode" title="Light / dark">◐</button>
+      <button class="icon-btn" id="themeBtn" aria-label="Switch light or dark" title="Light / dark">◐</button>
     </div>
   </header>
   <nav class="sidebar" id="sidebar">
-    <a href="#/dashboard" data-nav="dashboard"><span>⌂</span>Dashboard</a>
-    <a href="#/syllabus" data-nav="syllabus"><span>✓</span>Syllabus checklist</a>
-    <a href="#/combos" data-nav="combos"><span>◆</span>Study combos</a>
-    <a href="#/schedule" data-nav="schedule"><span>▦</span>Daily schedule</a>
-    <a href="#/lessons" data-nav="lessons"><span>❏</span>Lessons</a>
+    <a href="#/today" data-nav="today" class="nav-main"><span>☀</span>Today</a>
+    <a href="#/plan" data-nav="plan" class="nav-main"><span>▦</span>Your plan</a>
+    <div class="nav-label">Practice</div>
+    <a href="#/practice" data-nav="practice"><span>◎</span>Practice home</a>
     <a href="#/bank" data-nav="bank"><span>≡</span>Question bank</a>
-    <a href="#/exam" data-nav="exam"><span>⏱</span>Create exam</a>
+    <a href="#/exam" data-nav="exam"><span>⏱</span>Timed exams</a>
     <a href="#/mistakes" data-nav="mistakes"><span>✗</span>Mistakes log</a>
     <a href="#/vocab" data-nav="vocab"><span>Aa</span>Vocab cards</a>
+    <div class="nav-label">Learn</div>
+    <a href="#/lessons" data-nav="lessons"><span>❏</span>Lessons</a>
+    <a href="#/syllabus" data-nav="syllabus"><span>✓</span>Syllabus checklist</a>
+    <div class="nav-label">Help</div>
+    <a href="#/guide" data-nav="guide"><span>?</span>How this works</a>
+    <a href="#/combos" data-nav="combos"><span>◆</span>Study combos</a>
     <a href="#/advice" data-nav="advice"><span>★</span>Advice by stage</a>
-    <a href="#/interviews" data-nav="interviews"><span>☺</span>Interviews</a>
     <a href="#/resources" data-nav="resources"><span>↓</span>Official resources</a>
-    <a href="#/progress" data-nav="progress"><span>⚙</span>Progress &amp; backup</a>
+    <a href="#/interviews" data-nav="interviews"><span>☺</span>Admission interviews</a>
+    <div class="nav-label">You</div>
+    <a href="#/progress" data-nav="progress"><span>↗</span>Progress &amp; settings</a>
   </nav>
   <div class="scrim" id="scrim"></div>
   <main class="main" id="main"><div class="loading">Loading…</div></main>
+  <nav class="bottomnav" aria-label="Main">
+    <a href="#/today" data-nav="today"><span>☀</span>Today</a>
+    <a href="#/plan" data-nav="plan"><span>▦</span>Plan</a>
+    <a href="#/practice" data-nav="practice"><span>◎</span>Practice</a>
+    <a href="#/vocab" data-nav="vocab"><span>Aa</span>Vocab</a>
+    <a href="#/progress" data-nav="progress"><span>↗</span>Progress</a>
+  </nav>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
-<script src="site/data/content.js"></script>
-<script src="site/app.js"></script>
+<script src="site/data/content.js?v=7"></script>
+<script src="site/app.js?v=7"></script>
 </body>
 </html>
