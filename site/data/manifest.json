@@ -1,0 +1,354 @@
+{
+ "generated": "2026-11-24",
+ "counts": {
+  "total": 674,
+  "examples": 80,
+  "nonExamples": 594,
+  "bySection": {
+   "quant": 420,
+   "verbal": 104,
+   "vocab": 150
+  },
+  "byTopic": {
+   "quant": {
+    "algebra": 46,
+    "arithmetic": 40,
+    "coordinate-geometry": 37,
+    "counting-probability": 40,
+    "data-interpretation": 49,
+    "exponents-roots": 39,
+    "fractions-percents-ratios": 40,
+    "geometry": 39,
+    "mixed": 10,
+    "statistics": 41,
+    "word-problems": 39
+   },
+   "verbal": {
+    "cr": 5,
+    "rc": 27,
+    "se": 36,
+    "tc": 36
+   },
+   "vocab": {
+    "vocab-week-1": 25,
+    "vocab-week-2": 25,
+    "vocab-week-3": 25,
+    "vocab-week-4": 25,
+    "vocab-week-5": 25,
+    "vocab-week-6": 25
+   }
+  },
+  "byType": {
+   "fill": 60,
+   "mc": 223,
+   "multi": 163,
+   "numeric": 56,
+   "passage": 4,
+   "qc": 132,
+   "tc1": 15,
+   "tcN": 21
+  },
+  "byDifficulty": {
+   "1": 354,
+   "2": 193,
+   "3": 127
+  },
+  "bySource": {
+   "02-Quant/01-Arithmetic-and-Number-Properties.md": 33,
+   "02-Quant/02-Fractions-Percents-Ratios.md": 33,
+   "02-Quant/03-Exponents-and-Roots.md": 33,
+   "02-Quant/04-Algebra.md": 33,
+   "02-Quant/05-Word-Problems.md": 33,
+   "02-Quant/06-Geometry.md": 33,
+   "02-Quant/07-Coordinate-Geometry.md": 33,
+   "02-Quant/08-Statistics.md": 33,
+   "02-Quant/09-Counting-and-Probability.md": 33,
+   "02-Quant/10-Data-Interpretation.md": 32,
+   "02-Quant/11-Quantitative-Comparison.md": 10,
+   "02-Quant/12-Mixed-Timed-Sets.md": 81,
+   "03-Verbal/Practice/TC-Practice.md": 36,
+   "03-Verbal/Practice/SE-Practice.md": 36,
+   "03-Verbal/Practice/RC-Practice.md": 32,
+   "04-Vocab/Quiz-Week-1.md": 25,
+   "04-Vocab/Quiz-Week-2.md": 25,
+   "04-Vocab/Quiz-Week-3.md": 25,
+   "04-Vocab/Quiz-Week-4.md": 25,
+   "04-Vocab/Quiz-Week-5.md": 25,
+   "04-Vocab/Quiz-Week-6.md": 25
+  },
+  "vocabWords": 600,
+  "contexts": 25
+ },
+ "types": {
+  "qc": "Quantitative Comparison: given info in stem, quantities in qa/qb, standard options A-D, one answer",
+  "mc": "Multiple choice, exactly one answer",
+  "multi": "Select all that apply; selectCount (if present) says exactly how many to pick",
+  "numeric": "Numeric entry; answer is a single string (integer, decimal or fraction)",
+  "tc1": "One-blank Text Completion, five options, one answer",
+  "tcN": "Two- or three-blank Text Completion; options are in blanks[], answer has one key per blank",
+  "passage": "Select-in-passage (RC); answer is the start of the correct sentence",
+  "fill": "Vocabulary fill-the-blank, five options, one answer"
+ },
+ "lessons": [
+  {
+   "path": "00-START-HERE.md",
+   "title": "GRE prep: start here",
+   "folder": "."
+  },
+  {
+   "path": "01-Plan/GRE-Plan.md",
+   "title": "GRE master plan",
+   "folder": "01-Plan"
+  },
+  {
+   "path": "01-Plan/Progress-Dashboard.md",
+   "title": "Progress dashboard",
+   "folder": "01-Plan"
+  },
+  {
+   "path": "01-Plan/Resources.md",
+   "title": "GRE resources: what to use and what to skip",
+   "folder": "01-Plan"
+  },
+  {
+   "path": "01-Plan/Study-Schedule.md",
+   "title": "Study Schedule: Mon 23 Nov 2026 → Sat 23 Jan 2027",
+   "folder": "01-Plan"
+  },
+  {
+   "path": "01-Plan/Test-Day.md",
+   "title": "Test day: Sat 23 Jan 2027",
+   "folder": "01-Plan"
+  },
+  {
+   "path": "02-Quant/00-Formula-Sheet.md",
+   "title": "Quant Formula Sheet: know all of this by heart",
+   "folder": "02-Quant"
+  },
+  {
+   "path": "02-Quant/01-Arithmetic-and-Number-Properties.md",
+   "title": "Arithmetic and Number Properties",
+   "folder": "02-Quant"
+  },
+  {
+   "path": "02-Quant/02-Fractions-Percents-Ratios.md",
+   "title": "Fractions, Percents and Ratios",
+   "folder": "02-Quant"
+  },
+  {
+   "path": "02-Quant/03-Exponents-and-Roots.md",
+   "title": "Exponents and Roots",
+   "folder": "02-Quant"
+  },
+  {
+   "path": "02-Quant/04-Algebra.md",
+   "title": "Algebra",
+   "folder": "02-Quant"
+  },
+  {
+   "path": "02-Quant/05-Word-Problems.md",
+   "title": "Word Problems",
+   "folder": "02-Quant"
+  },
+  {
+   "path": "02-Quant/06-Geometry.md",
+   "title": "Geometry",
+   "folder": "02-Quant"
+  },
+  {
+   "path": "02-Quant/07-Coordinate-Geometry.md",
+   "title": "Coordinate Geometry",
+   "folder": "02-Quant"
+  },
+  {
+   "path": "02-Quant/08-Statistics.md",
+   "title": "Statistics",
+   "folder": "02-Quant"
+  },
+  {
+   "path": "02-Quant/09-Counting-and-Probability.md",
+   "title": "Counting and Probability",
+   "folder": "02-Quant"
+  },
+  {
+   "path": "02-Quant/10-Data-Interpretation.md",
+   "title": "Data Interpretation",
+   "folder": "02-Quant"
+  },
+  {
+   "path": "02-Quant/11-Quantitative-Comparison.md",
+   "title": "Quantitative Comparison (QC): strategy",
+   "folder": "02-Quant"
+  },
+  {
+   "path": "02-Quant/12-Mixed-Timed-Sets.md",
+   "title": "12. Mixed Timed Quant Sets",
+   "folder": "02-Quant"
+  },
+  {
+   "path": "02-Quant/13-Quant-Pacing.md",
+   "title": "Quant pacing and calculator strategy",
+   "folder": "02-Quant"
+  },
+  {
+   "path": "03-Verbal/01-Text-Completion.md",
+   "title": "Text Completion (TC): lesson",
+   "folder": "03-Verbal"
+  },
+  {
+   "path": "03-Verbal/02-Sentence-Equivalence.md",
+   "title": "Sentence Equivalence (SE): lesson",
+   "folder": "03-Verbal"
+  },
+  {
+   "path": "03-Verbal/03-Reading-Comprehension.md",
+   "title": "Reading Comprehension (RC): lesson",
+   "folder": "03-Verbal"
+  },
+  {
+   "path": "03-Verbal/04-Verbal-Pacing.md",
+   "title": "Verbal pacing and elimination strategy",
+   "folder": "03-Verbal"
+  },
+  {
+   "path": "03-Verbal/Practice/RC-Practice.md",
+   "title": "GRE Verbal Practice: Reading Comprehension (10 original passages, 32 questions)",
+   "folder": "03-Verbal/Practice"
+  },
+  {
+   "path": "03-Verbal/Practice/SE-Practice.md",
+   "title": "GRE Verbal Practice: Sentence Equivalence (36 original questions)",
+   "folder": "03-Verbal/Practice"
+  },
+  {
+   "path": "03-Verbal/Practice/TC-Practice.md",
+   "title": "GRE Verbal Practice: Text Completion (36 original questions)",
+   "folder": "03-Verbal/Practice"
+  },
+  {
+   "path": "04-Vocab/Quiz-Week-1.md",
+   "title": "Quiz: Week 1 (Days 1 to 5)",
+   "folder": "04-Vocab"
+  },
+  {
+   "path": "04-Vocab/Quiz-Week-2.md",
+   "title": "Quiz: Week 2 (Days 6 to 10)",
+   "folder": "04-Vocab"
+  },
+  {
+   "path": "04-Vocab/Quiz-Week-3.md",
+   "title": "Quiz: Week 3 (Days 11 to 15)",
+   "folder": "04-Vocab"
+  },
+  {
+   "path": "04-Vocab/Quiz-Week-4.md",
+   "title": "Quiz: Week 4 (Days 16 to 20)",
+   "folder": "04-Vocab"
+  },
+  {
+   "path": "04-Vocab/Quiz-Week-5.md",
+   "title": "Quiz: Week 5 (Days 21 to 25)",
+   "folder": "04-Vocab"
+  },
+  {
+   "path": "04-Vocab/Quiz-Week-6.md",
+   "title": "Quiz: Week 6 (Days 26 to 30)",
+   "folder": "04-Vocab"
+  },
+  {
+   "path": "04-Vocab/README.md",
+   "title": "GRE Vocabulary: 600 words in 30 study days",
+   "folder": "04-Vocab"
+  },
+  {
+   "path": "04-Vocab/Words-Week-1.md",
+   "title": "Words: Week 1 (Days 1 to 5)",
+   "folder": "04-Vocab"
+  },
+  {
+   "path": "04-Vocab/Words-Week-2.md",
+   "title": "Words: Week 2 (Days 6 to 10)",
+   "folder": "04-Vocab"
+  },
+  {
+   "path": "04-Vocab/Words-Week-3.md",
+   "title": "Words: Week 3 (Days 11 to 15)",
+   "folder": "04-Vocab"
+  },
+  {
+   "path": "04-Vocab/Words-Week-4.md",
+   "title": "Words: Week 4 (Days 16 to 20)",
+   "folder": "04-Vocab"
+  },
+  {
+   "path": "04-Vocab/Words-Week-5.md",
+   "title": "Words: Week 5 (Days 21 to 25)",
+   "folder": "04-Vocab"
+  },
+  {
+   "path": "04-Vocab/Words-Week-6.md",
+   "title": "Words: Week 6 (Days 26 to 30)",
+   "folder": "04-Vocab"
+  },
+  {
+   "path": "05-Writing/01-Issue-Essay-Guide.md",
+   "title": "Analytical Writing: the Issue essay",
+   "folder": "05-Writing"
+  },
+  {
+   "path": "05-Writing/02-Sample-Essays.md",
+   "title": "Two illustrative strong essays",
+   "folder": "05-Writing"
+  },
+  {
+   "path": "05-Writing/03-Essay-Scorecard.md",
+   "title": "Analytical Writing self-scorecard",
+   "folder": "05-Writing"
+  },
+  {
+   "path": "05-Writing/My-Essays/Essay-1.md",
+   "title": "GRE Issue essay 1",
+   "folder": "05-Writing/My-Essays"
+  },
+  {
+   "path": "05-Writing/My-Essays/Essay-2.md",
+   "title": "GRE Issue essay 2",
+   "folder": "05-Writing/My-Essays"
+  },
+  {
+   "path": "05-Writing/My-Essays/Essay-3.md",
+   "title": "GRE Issue essay 3",
+   "folder": "05-Writing/My-Essays"
+  },
+  {
+   "path": "05-Writing/My-Essays/Essay-4.md",
+   "title": "GRE Issue essay 4",
+   "folder": "05-Writing/My-Essays"
+  },
+  {
+   "path": "05-Writing/My-Essays/README.md",
+   "title": "My GRE essays",
+   "folder": "05-Writing/My-Essays"
+  },
+  {
+   "path": "06-Practice-Tests/Error-Log.md",
+   "title": "GRE error log",
+   "folder": "06-Practice-Tests"
+  },
+  {
+   "path": "06-Practice-Tests/Mock-Test-Guide.md",
+   "title": "Official practice tests: sequence, review and decisions",
+   "folder": "06-Practice-Tests"
+  },
+  {
+   "path": "06-Practice-Tests/Weekly-Review.md",
+   "title": "Weekly review: 20 minutes every Sunday",
+   "folder": "06-Practice-Tests"
+  },
+  {
+   "path": "README.md",
+   "title": "GRE Practice",
+   "folder": "."
+  }
+ ]
+}

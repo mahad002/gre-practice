@@ -1,0 +1,7454 @@
+[
+ {
+  "word": "laud",
+  "pos": "v",
+  "meaning": "to praise highly",
+  "example": "Critics lauded the film as the best of the decade, and it won every major award.",
+  "synonyms": [
+   "extol",
+   "acclaim"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "extol",
+  "pos": "v",
+  "meaning": "to praise enthusiastically",
+  "example": "The coach extolled her players' discipline in every interview and never missed a chance to praise them.",
+  "synonyms": [
+   "laud",
+   "acclaim"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "venerate",
+  "pos": "v",
+  "meaning": "to regard with deep respect",
+  "example": "The villagers venerate the old teacher and still seek her advice on every important matter.",
+  "synonyms": [
+   "revere"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "revere",
+  "pos": "v",
+  "meaning": "to respect and admire deeply",
+  "example": "Students revered the professor so much that they fell silent whenever he entered the room.",
+  "synonyms": [
+   "venerate"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "acclaim",
+  "pos": "n, v",
+  "meaning": "enthusiastic public praise; to praise publicly",
+  "example": "The novel won wide acclaim, with reviewers calling it a masterpiece.",
+  "synonyms": [
+   "laud",
+   "approbation"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "adulation",
+  "pos": "n",
+  "meaning": "excessive admiration or praise",
+  "example": "The singer grew tired of the adulation of fans who screamed at everything he did.",
+  "synonyms": [
+   "flattery",
+   "worship"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "censure",
+  "pos": "v, n",
+  "meaning": "to criticize formally and strongly (not censor)",
+  "example": "The senate voted to censure the minister for misleading the public.",
+  "synonyms": [
+   "rebuke",
+   "reproach"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "castigate",
+  "pos": "v",
+  "meaning": "to criticize or punish severely",
+  "example": "The editor castigated the reporter for publishing the story without checking a single fact.",
+  "synonyms": [
+   "lambaste",
+   "berate"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "berate",
+  "pos": "v",
+  "meaning": "to scold angrily and at length",
+  "example": "The manager berated the waiter in front of customers for dropping one plate.",
+  "synonyms": [
+   "upbraid",
+   "castigate"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "rebuke",
+  "pos": "v, n",
+  "meaning": "to criticize sharply; a sharp criticism",
+  "example": "The judge rebuked the lawyer for interrupting the witness yet again.",
+  "synonyms": [
+   "reproach",
+   "admonish"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "chastise",
+  "pos": "v",
+  "meaning": "to scold or punish",
+  "example": "She chastised her son for lying and took away his phone for a week.",
+  "synonyms": [
+   "rebuke",
+   "castigate"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "admonish",
+  "pos": "v",
+  "meaning": "to warn or scold gently but firmly",
+  "example": "The librarian admonished the children to keep their voices down.",
+  "synonyms": [
+   "rebuke",
+   "reproach"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "disparage",
+  "pos": "v",
+  "meaning": "to speak of as having little worth",
+  "example": "He disparaged his rival's research, calling it shallow and unoriginal.",
+  "synonyms": [
+   "belittle",
+   "denigrate"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "denigrate",
+  "pos": "v",
+  "meaning": "to attack the reputation of unfairly",
+  "example": "The campaign tried to denigrate the candidate by spreading rumors about her past.",
+  "synonyms": [
+   "disparage",
+   "vilify"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "deride",
+  "pos": "v",
+  "meaning": "to mock with contempt",
+  "example": "Early critics derided the invention as a useless toy and laughed at its inventor.",
+  "synonyms": [
+   "scorn",
+   "ridicule"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "belittle",
+  "pos": "v",
+  "meaning": "to make seem small or unimportant",
+  "example": "She belittled his promotion by saying that anyone could have got it.",
+  "synonyms": [
+   "disparage"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "vilify",
+  "pos": "v",
+  "meaning": "to describe as evil; to slander",
+  "example": "The press vilified the banker as a greedy villain long before the trial began.",
+  "synonyms": [
+   "denigrate"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "lambaste",
+  "pos": "v",
+  "meaning": "to criticize harshly",
+  "example": "Reviewers lambasted the sequel, calling it lazy, dull and far too long.",
+  "synonyms": [
+   "castigate",
+   "excoriate"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "reproach",
+  "pos": "v, n",
+  "meaning": "to express disappointment or blame",
+  "example": "She reproached him for forgetting her birthday, though she sounded more hurt than angry.",
+  "synonyms": [
+   "rebuke",
+   "admonish"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "upbraid",
+  "pos": "v",
+  "meaning": "to scold severely",
+  "example": "The captain upbraided the sailor for sleeping on watch.",
+  "synonyms": [
+   "berate",
+   "chastise"
+  ],
+  "day": 1,
+  "week": 1,
+  "theme": "Praise and criticism"
+ },
+ {
+  "word": "garrulous",
+  "pos": "adj",
+  "meaning": "talking too much, often about trivial things",
+  "example": "Our garrulous neighbor kept us at the gate for an hour with stories about his cats.",
+  "synonyms": [
+   "loquacious",
+   "voluble"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "loquacious",
+  "pos": "adj",
+  "meaning": "very talkative",
+  "example": "The normally loquacious host fell silent when asked about the scandal.",
+  "synonyms": [
+   "garrulous",
+   "voluble"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "verbose",
+  "pos": "adj",
+  "meaning": "using more words than needed",
+  "example": "The verbose report took ten pages to say what one paragraph could have said.",
+  "synonyms": [
+   "prolix"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "voluble",
+  "pos": "adj",
+  "meaning": "talking fluently and rapidly",
+  "example": "A voluble salesman, he could talk for minutes without pausing for breath.",
+  "synonyms": [
+   "loquacious",
+   "garrulous"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "prolix",
+  "pos": "adj",
+  "meaning": "tediously long and wordy",
+  "example": "Readers gave up on the prolix novel, which spent fifty pages describing a single dinner.",
+  "synonyms": [
+   "verbose"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "effusive",
+  "pos": "adj",
+  "meaning": "expressing feelings in an unrestrained way",
+  "example": "Her effusive thanks, repeated five times with hugs, embarrassed the shy doctor.",
+  "synonyms": [
+   "gushing",
+   "fulsome"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "bombastic",
+  "pos": "adj",
+  "meaning": "sounding grand but with little meaning",
+  "example": "The bombastic speech was full of grand phrases and empty of actual plans.",
+  "synonyms": [
+   "pompous"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "circumlocution",
+  "pos": "n",
+  "meaning": "an indirect, roundabout way of speaking",
+  "example": "Tired of the minister's circumlocution, the reporter demanded a simple yes or no.",
+  "synonyms": [
+   "wordiness",
+   "evasion"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "digress",
+  "pos": "v",
+  "meaning": "to wander from the main topic",
+  "example": "The lecturer often digressed into stories about his travels and never finished the syllabus.",
+  "synonyms": [
+   "stray",
+   "deviate"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "eloquent",
+  "pos": "adj",
+  "meaning": "fluent and persuasive in speech or writing",
+  "example": "Her eloquent plea moved the jury to tears and changed the verdict.",
+  "synonyms": [
+   "articulate"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "taciturn",
+  "pos": "adj",
+  "meaning": "habitually saying very little",
+  "example": "The taciturn farmer answered every question with a nod or a single word.",
+  "synonyms": [
+   "reticent",
+   "laconic"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "reticent",
+  "pos": "adj",
+  "meaning": "unwilling to speak freely; reserved",
+  "example": "He was reticent about his childhood and changed the subject whenever it came up.",
+  "synonyms": [
+   "taciturn"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "laconic",
+  "pos": "adj",
+  "meaning": "using very few words",
+  "example": "Her laconic reply, a single \"No,\" ended the two-hour debate.",
+  "synonyms": [
+   "terse",
+   "taciturn"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "terse",
+  "pos": "adj",
+  "meaning": "brief, sometimes to the point of rudeness",
+  "example": "His terse email, just three words long, made her nervous.",
+  "synonyms": [
+   "curt",
+   "laconic"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "succinct",
+  "pos": "adj",
+  "meaning": "briefly and clearly expressed",
+  "example": "The summary was succinct and covered the whole project in three clear sentences.",
+  "synonyms": [
+   "concise",
+   "pithy"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "concise",
+  "pos": "adj",
+  "meaning": "giving much information in few words",
+  "example": "Keep your answer concise, because the examiner has only a minute to read it.",
+  "synonyms": [
+   "succinct"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "pithy",
+  "pos": "adj",
+  "meaning": "short and full of meaning",
+  "example": "The essay ended with a pithy remark that readers quoted for years.",
+  "synonyms": [
+   "succinct"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "curt",
+  "pos": "adj",
+  "meaning": "rudely brief",
+  "example": "Offended by her curt \"Not now,\" he left without saying goodbye.",
+  "synonyms": [
+   "brusque",
+   "terse"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "brusque",
+  "pos": "adj",
+  "meaning": "abrupt and blunt in manner",
+  "example": "The doctor's brusque manner upset patients, who felt rushed and unheard.",
+  "synonyms": [
+   "curt"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "brevity",
+  "pos": "n",
+  "meaning": "shortness of expression or of time",
+  "example": "The speech was praised for its brevity, as it lasted barely two minutes.",
+  "synonyms": [
+   "concision"
+  ],
+  "day": 2,
+  "week": 1,
+  "theme": "Talkative vs. quiet"
+ },
+ {
+  "word": "obstinate",
+  "pos": "adj",
+  "meaning": "stubbornly refusing to change one's mind",
+  "example": "The obstinate child refused to wear a coat even as snow began to fall.",
+  "synonyms": [
+   "obdurate",
+   "intransigent"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "obdurate",
+  "pos": "adj",
+  "meaning": "stubbornly unmoved by persuasion or pity",
+  "example": "The landlord remained obdurate and ignored the family's pleas for one more week.",
+  "synonyms": [
+   "obstinate"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "intransigent",
+  "pos": "adj",
+  "meaning": "refusing to compromise",
+  "example": "Talks collapsed because both sides were intransigent and would not give up a single demand.",
+  "synonyms": [
+   "obdurate",
+   "adamant"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "recalcitrant",
+  "pos": "adj",
+  "meaning": "stubbornly resisting authority or control",
+  "example": "The recalcitrant student ignored every rule the school tried to enforce.",
+  "synonyms": [
+   "intractable",
+   "insubordinate"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "intractable",
+  "pos": "adj",
+  "meaning": "hard to control, manage or solve",
+  "example": "The disease proved intractable and resisted every treatment the doctors tried.",
+  "synonyms": [
+   "recalcitrant"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "tenacious",
+  "pos": "adj",
+  "meaning": "holding firmly; not giving up easily",
+  "example": "The tenacious reporter chased the story for three years until she had proof.",
+  "synonyms": [
+   "dogged",
+   "resolute"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "dogged",
+  "pos": "adj",
+  "meaning": "persistent in spite of difficulty",
+  "example": "Through dogged effort, he passed the exam on his fifth attempt.",
+  "synonyms": [
+   "tenacious"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "adamant",
+  "pos": "adj",
+  "meaning": "refusing to be persuaded",
+  "example": "She was adamant that she would not sign, whatever they offered her.",
+  "synonyms": [
+   "intransigent",
+   "resolute"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "steadfast",
+  "pos": "adj",
+  "meaning": "firmly loyal and unchanging",
+  "example": "He remained a steadfast friend when everyone else had abandoned her.",
+  "synonyms": [
+   "resolute",
+   "abiding"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "resolute",
+  "pos": "adj",
+  "meaning": "firmly determined",
+  "example": "Resolute in her decision to leave, she ignored every attempt to change her mind.",
+  "synonyms": [
+   "steadfast",
+   "adamant"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "dogmatic",
+  "pos": "adj",
+  "meaning": "stating opinions as certain truths, without evidence",
+  "example": "The dogmatic professor dismissed any theory that differed from his own.",
+  "synonyms": [
+   "opinionated",
+   "doctrinaire"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "pliable",
+  "pos": "adj",
+  "meaning": "easily bent or influenced",
+  "example": "The young recruits were pliable and accepted whatever the leader told them.",
+  "synonyms": [
+   "malleable"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "malleable",
+  "pos": "adj",
+  "meaning": "easily shaped or influenced",
+  "example": "Children's minds are malleable, so early teaching leaves a lasting mark.",
+  "synonyms": [
+   "pliable"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "tractable",
+  "pos": "adj",
+  "meaning": "easy to control or deal with",
+  "example": "The new horse was tractable and followed commands from the first day.",
+  "synonyms": [
+   "docile",
+   "amenable"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "amenable",
+  "pos": "adj",
+  "meaning": "willing to accept a suggestion",
+  "example": "The manager was amenable to the change and approved it at once.",
+  "synonyms": [
+   "tractable",
+   "compliant"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "docile",
+  "pos": "adj",
+  "meaning": "quiet and easy to control",
+  "example": "The once wild dog became docile after months of patient training.",
+  "synonyms": [
+   "tractable",
+   "meek"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "compliant",
+  "pos": "adj",
+  "meaning": "willing to obey rules or requests",
+  "example": "Compliant employees followed the new policy without a single complaint.",
+  "synonyms": [
+   "amenable",
+   "docile"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "acquiesce",
+  "pos": "v",
+  "meaning": "to accept reluctantly without protest",
+  "example": "Though she disliked the plan, she acquiesced rather than start another argument.",
+  "synonyms": [
+   "concede",
+   "capitulate"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "capitulate",
+  "pos": "v",
+  "meaning": "to stop resisting; to surrender",
+  "example": "After a week of strikes, the company capitulated and raised wages.",
+  "synonyms": [
+   "acquiesce"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "concede",
+  "pos": "v",
+  "meaning": "to admit something is true; to give up",
+  "example": "He finally conceded that his opponent had the stronger argument.",
+  "synonyms": [
+   "acquiesce"
+  ],
+  "day": 3,
+  "week": 1,
+  "theme": "Stubborn vs. flexible"
+ },
+ {
+  "word": "duplicity",
+  "pos": "n",
+  "meaning": "deliberate deceit; double-dealing",
+  "example": "His duplicity was exposed when both partners found he had promised each of them the same contract.",
+  "synonyms": [
+   "guile"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "guile",
+  "pos": "n",
+  "meaning": "clever, sly deception",
+  "example": "She used guile rather than force and tricked the guard into opening the door.",
+  "synonyms": [
+   "duplicity",
+   "cunning"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "disingenuous",
+  "pos": "adj",
+  "meaning": "not sincere; pretending to know less than one does",
+  "example": "It was disingenuous of him to act surprised at news he had leaked himself.",
+  "synonyms": [
+   "insincere"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "mendacious",
+  "pos": "adj",
+  "meaning": "lying; untruthful",
+  "example": "The mendacious witness changed his story three times under oath.",
+  "synonyms": [
+   "dishonest"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "spurious",
+  "pos": "adj",
+  "meaning": "false or fake, though seeming genuine",
+  "example": "The claim rested on spurious data that no other laboratory could reproduce.",
+  "synonyms": [
+   "specious",
+   "bogus"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "specious",
+  "pos": "adj",
+  "meaning": "seeming right or true but actually false",
+  "example": "The argument sounded convincing but was specious, since it ignored half the evidence.",
+  "synonyms": [
+   "fallacious",
+   "spurious"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "fallacious",
+  "pos": "adj",
+  "meaning": "based on a mistaken belief or bad logic",
+  "example": "It is fallacious to assume that because two events occur together, one causes the other.",
+  "synonyms": [
+   "specious"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "feign",
+  "pos": "v",
+  "meaning": "to pretend to feel or have",
+  "example": "He feigned illness to avoid the meeting and coughed loudly on the phone.",
+  "synonyms": [
+   "dissemble",
+   "fake"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "dissemble",
+  "pos": "v",
+  "meaning": "to hide one's real feelings or intentions",
+  "example": "Unable to dissemble, she let her disappointment show plainly on her face.",
+  "synonyms": [
+   "feign"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "prevaricate",
+  "pos": "v",
+  "meaning": "to avoid telling the truth by being evasive",
+  "example": "Asked directly whether he took the money, he prevaricated and talked about his busy week.",
+  "synonyms": [
+   "equivocate"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "equivocate",
+  "pos": "v",
+  "meaning": "to use vague language to avoid commitment",
+  "example": "The candidate equivocated on taxes, giving answers that could mean anything.",
+  "synonyms": [
+   "prevaricate"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "charlatan",
+  "pos": "n",
+  "meaning": "a person falsely claiming skill or knowledge",
+  "example": "The so-called healer was a charlatan who sold colored water as medicine.",
+  "synonyms": [
+   "fraud",
+   "quack"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "fabricate",
+  "pos": "v",
+  "meaning": "to invent in order to deceive",
+  "example": "The researcher fabricated results for experiments he had never run.",
+  "synonyms": [
+   "concoct"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "candid",
+  "pos": "adj",
+  "meaning": "honest and direct",
+  "example": "In a candid interview, she admitted the mistakes she had made as leader.",
+  "synonyms": [
+   "forthright",
+   "frank"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "forthright",
+  "pos": "adj",
+  "meaning": "direct and outspoken",
+  "example": "He gave a forthright answer and said plainly that the plan would fail.",
+  "synonyms": [
+   "candid"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "ingenuous",
+  "pos": "adj",
+  "meaning": "innocent, trusting and sincere (not ingenious)",
+  "example": "Her ingenuous belief that everyone tells the truth made her easy to fool.",
+  "synonyms": [
+   "artless",
+   "guileless"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "artless",
+  "pos": "adj",
+  "meaning": "natural and sincere; without deceit",
+  "example": "The child's artless question, asked with no hidden motive, embarrassed the adults.",
+  "synonyms": [
+   "ingenuous",
+   "guileless"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "veracity",
+  "pos": "n",
+  "meaning": "truthfulness; accuracy",
+  "example": "Reporters questioned the veracity of the statement after documents contradicted it.",
+  "synonyms": [
+   "truthfulness"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "guileless",
+  "pos": "adj",
+  "meaning": "honest and without cunning",
+  "example": "Guileless and open, he never suspected that his partners were cheating him.",
+  "synonyms": [
+   "artless",
+   "ingenuous"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "scrupulous",
+  "pos": "adj",
+  "meaning": "very careful to do what is right; very thorough",
+  "example": "A scrupulous accountant, she reported even the smallest error in her own favor.",
+  "synonyms": [
+   "conscientious",
+   "meticulous"
+  ],
+  "day": 4,
+  "week": 1,
+  "theme": "Deceit and honesty"
+ },
+ {
+  "word": "volatile",
+  "pos": "adj",
+  "meaning": "likely to change suddenly",
+  "example": "Prices were so volatile that a stock could double and halve in the same week.",
+  "synonyms": [
+   "erratic",
+   "mercurial"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "capricious",
+  "pos": "adj",
+  "meaning": "changing mood or behavior without reason",
+  "example": "The capricious director praised a scene one day and cut it the next.",
+  "synonyms": [
+   "fickle",
+   "whimsical"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "mercurial",
+  "pos": "adj",
+  "meaning": "quickly changing in mood",
+  "example": "Her mercurial temper meant that laughter could turn to rage within minutes.",
+  "synonyms": [
+   "volatile",
+   "capricious"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "fickle",
+  "pos": "adj",
+  "meaning": "changing loyalties or interests often",
+  "example": "Fickle fans who cheered the team last year now boo it after two losses.",
+  "synonyms": [
+   "capricious"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "erratic",
+  "pos": "adj",
+  "meaning": "irregular and unpredictable",
+  "example": "The driver's erratic steering, swerving left and right, alarmed the police.",
+  "synonyms": [
+   "volatile"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "whimsical",
+  "pos": "adj",
+  "meaning": "playfully fanciful; decided by sudden impulse",
+  "example": "On a whimsical impulse, he painted the front door bright purple.",
+  "synonyms": [
+   "capricious"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "vacillate",
+  "pos": "v",
+  "meaning": "to keep changing between opinions",
+  "example": "She vacillated for weeks between the two job offers, unable to choose.",
+  "synonyms": [
+   "waver"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "waver",
+  "pos": "v",
+  "meaning": "to become unsteady or undecided",
+  "example": "His confidence wavered when he saw how difficult the first question was.",
+  "synonyms": [
+   "vacillate"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "fluctuate",
+  "pos": "v",
+  "meaning": "to rise and fall irregularly",
+  "example": "Temperatures fluctuate widely in the desert, from freezing nights to burning days.",
+  "synonyms": [
+   "vary"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "mutable",
+  "pos": "adj",
+  "meaning": "liable to change",
+  "example": "Fashion is mutable, and what is admired today looks silly in a decade.",
+  "synonyms": [
+   "changeable"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "transient",
+  "pos": "adj",
+  "meaning": "lasting only a short time",
+  "example": "The pain was transient and had disappeared by the next morning.",
+  "synonyms": [
+   "ephemeral",
+   "fleeting"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "ephemeral",
+  "pos": "adj",
+  "meaning": "lasting a very short time",
+  "example": "Fame on the internet is ephemeral, and last month's star is already forgotten.",
+  "synonyms": [
+   "transient",
+   "fleeting"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "fleeting",
+  "pos": "adj",
+  "meaning": "passing very quickly",
+  "example": "She caught only a fleeting glimpse of the bird before it vanished.",
+  "synonyms": [
+   "transient",
+   "ephemeral"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "transitory",
+  "pos": "adj",
+  "meaning": "not permanent",
+  "example": "He reminded himself that the hardship was transitory and that better days would come.",
+  "synonyms": [
+   "transient"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "static",
+  "pos": "adj",
+  "meaning": "not moving or changing",
+  "example": "Wages remained static for five years while prices kept rising.",
+  "synonyms": [
+   "stagnant"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "immutable",
+  "pos": "adj",
+  "meaning": "unable to be changed",
+  "example": "The laws of physics are immutable, whatever politicians may wish.",
+  "synonyms": [
+   "unchangeable"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "stagnant",
+  "pos": "adj",
+  "meaning": "not flowing, growing or developing",
+  "example": "The stagnant economy produced no new jobs for three years.",
+  "synonyms": [
+   "static"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "perennial",
+  "pos": "adj",
+  "meaning": "lasting or recurring for a long time",
+  "example": "Traffic is a perennial problem in the city, complained about by every generation.",
+  "synonyms": [
+   "abiding",
+   "enduring"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "abiding",
+  "pos": "adj",
+  "meaning": "lasting a long time",
+  "example": "Her abiding love of music stayed with her from childhood to old age.",
+  "synonyms": [
+   "steadfast",
+   "perennial"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "entrenched",
+  "pos": "adj",
+  "meaning": "firmly established and hard to change",
+  "example": "The habit was so entrenched that no campaign could persuade people to give it up.",
+  "synonyms": [
+   "ingrained"
+  ],
+  "day": 5,
+  "week": 1,
+  "theme": "Change and stability"
+ },
+ {
+  "word": "ameliorate",
+  "pos": "v",
+  "meaning": "to make a bad situation better",
+  "example": "New housing helped ameliorate the overcrowding in the city center.",
+  "synonyms": [
+   "alleviate",
+   "mitigate"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "alleviate",
+  "pos": "v",
+  "meaning": "to make pain or a problem less severe",
+  "example": "The medicine alleviated her headache within minutes.",
+  "synonyms": [
+   "mitigate",
+   "assuage"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "mitigate",
+  "pos": "v",
+  "meaning": "to make less severe or harmful",
+  "example": "Planting trees can mitigate the effects of flooding.",
+  "synonyms": [
+   "alleviate"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "assuage",
+  "pos": "v",
+  "meaning": "to ease an unpleasant feeling",
+  "example": "Nothing could assuage his guilt over the accident.",
+  "synonyms": [
+   "allay",
+   "alleviate"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "mollify",
+  "pos": "v",
+  "meaning": "to calm someone's anger",
+  "example": "The airline tried to mollify angry passengers with free meals.",
+  "synonyms": [
+   "placate",
+   "appease"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "placate",
+  "pos": "v",
+  "meaning": "to make less angry, often by giving in",
+  "example": "He placated the crying child with a promise of ice cream.",
+  "synonyms": [
+   "mollify",
+   "appease"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "appease",
+  "pos": "v",
+  "meaning": "to calm by giving what is demanded",
+  "example": "The king appeased the rebels by lowering their taxes.",
+  "synonyms": [
+   "placate"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "pacify",
+  "pos": "v",
+  "meaning": "to bring calm or peace to",
+  "example": "Police were sent to pacify the crowd before the protest turned violent.",
+  "synonyms": [
+   "mollify"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "allay",
+  "pos": "v",
+  "meaning": "to reduce fear, doubt or worry",
+  "example": "The pilot's calm announcement allayed the passengers' fears.",
+  "synonyms": [
+   "assuage"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "conciliate",
+  "pos": "v",
+  "meaning": "to win over; to end a disagreement peacefully",
+  "example": "The manager tried to conciliate the two departments by meeting the concerns of each.",
+  "synonyms": [
+   "placate",
+   "appease"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "bolster",
+  "pos": "v",
+  "meaning": "to support or strengthen",
+  "example": "The new evidence bolstered her case and convinced the doubtful jurors.",
+  "synonyms": [
+   "buttress"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "buttress",
+  "pos": "v, n",
+  "meaning": "to support or strengthen; a support",
+  "example": "He buttressed his argument with statistics from three separate studies.",
+  "synonyms": [
+   "bolster"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "exacerbate",
+  "pos": "v",
+  "meaning": "to make a bad situation worse",
+  "example": "Shouting at the frightened dog only exacerbated its aggression.",
+  "synonyms": [
+   "aggravate",
+   "compound"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "aggravate",
+  "pos": "v",
+  "meaning": "to make worse",
+  "example": "Running on the injured ankle aggravated the damage.",
+  "synonyms": [
+   "exacerbate"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "compound",
+  "pos": "v",
+  "meaning": "to make worse by adding to (second meaning)",
+  "example": "He compounded the error by lying about it afterwards.",
+  "synonyms": [
+   "exacerbate",
+   "aggravate"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "undermine",
+  "pos": "v",
+  "meaning": "to weaken gradually or secretly",
+  "example": "Constant criticism undermined her confidence until she stopped speaking in meetings.",
+  "synonyms": [
+   "impair",
+   "erode"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "impair",
+  "pos": "v",
+  "meaning": "to damage or weaken",
+  "example": "Lack of sleep impairs memory and slows reaction time.",
+  "synonyms": [
+   "undermine"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "debilitate",
+  "pos": "v",
+  "meaning": "to make very weak",
+  "example": "The long illness debilitated him so much that he could barely stand.",
+  "synonyms": [
+   "enervate"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "enervate",
+  "pos": "v",
+  "meaning": "to drain of energy; to weaken (not energize)",
+  "example": "The humid heat enervated the hikers, who could hardly lift their feet by noon.",
+  "synonyms": [
+   "debilitate"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "vitiate",
+  "pos": "v",
+  "meaning": "to spoil or reduce the value of",
+  "example": "One false figure vitiated the whole study and made its conclusions worthless.",
+  "synonyms": [
+   "impair",
+   "undermine"
+  ],
+  "day": 6,
+  "week": 2,
+  "theme": "Making things better vs. making things worse"
+ },
+ {
+  "word": "lucid",
+  "pos": "adj",
+  "meaning": "clear and easy to understand",
+  "example": "Her lucid explanation made even quantum physics seem simple.",
+  "synonyms": [
+   "coherent",
+   "clear"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "explicit",
+  "pos": "adj",
+  "meaning": "stated clearly, leaving no doubt",
+  "example": "The contract was explicit that payment was due on the first of each month.",
+  "synonyms": [
+   "unequivocal"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "unequivocal",
+  "pos": "adj",
+  "meaning": "leaving no doubt; not ambiguous",
+  "example": "The answer was an unequivocal no, with no room for negotiation.",
+  "synonyms": [
+   "explicit"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "cogent",
+  "pos": "adj",
+  "meaning": "clear, logical and convincing",
+  "example": "She made such a cogent case that even her opponents voted for the plan.",
+  "synonyms": [
+   "compelling"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "coherent",
+  "pos": "adj",
+  "meaning": "logical and consistent; easy to follow",
+  "example": "After the accident he was too confused to give a coherent account of events.",
+  "synonyms": [
+   "lucid"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "elucidate",
+  "pos": "v",
+  "meaning": "to make clear; to explain",
+  "example": "The diagram helped elucidate a process that words alone had left confusing.",
+  "synonyms": [
+   "explicate"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "explicate",
+  "pos": "v",
+  "meaning": "to explain in detail",
+  "example": "The scholar spent a chapter explicating a single line of the poem.",
+  "synonyms": [
+   "elucidate"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "manifest",
+  "pos": "adj, v",
+  "meaning": "clearly visible; to show clearly",
+  "example": "His relief was manifest in the broad smile that spread across his face.",
+  "synonyms": [
+   "patent",
+   "evince"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "ambiguous",
+  "pos": "adj",
+  "meaning": "having more than one possible meaning",
+  "example": "The ambiguous sign left drivers unsure whether the road was closed or open.",
+  "synonyms": [
+   "equivocal"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "equivocal",
+  "pos": "adj",
+  "meaning": "deliberately unclear; open to two readings",
+  "example": "His equivocal reply let both sides believe that he supported them.",
+  "synonyms": [
+   "ambiguous"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "obscure",
+  "pos": "adj, v",
+  "meaning": "little known; hard to understand; to hide",
+  "example": "The poem's meaning remained obscure even to experts who studied it for years.",
+  "synonyms": [
+   "opaque",
+   "abstruse"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "opaque",
+  "pos": "adj",
+  "meaning": "not transparent; hard to understand",
+  "example": "The legal language was so opaque that no ordinary reader could follow it.",
+  "synonyms": [
+   "obscure"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "abstruse",
+  "pos": "adj",
+  "meaning": "difficult to understand",
+  "example": "The lecture was so abstruse that only two specialists in the audience followed it.",
+  "synonyms": [
+   "arcane",
+   "esoteric"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "arcane",
+  "pos": "adj",
+  "meaning": "known or understood by very few",
+  "example": "He loved the arcane rules of medieval heraldry, which almost nobody else had studied.",
+  "synonyms": [
+   "esoteric"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "esoteric",
+  "pos": "adj",
+  "meaning": "meant for a small group with special knowledge",
+  "example": "The journal publishes esoteric papers that only a handful of mathematicians can read.",
+  "synonyms": [
+   "arcane",
+   "abstruse"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "cryptic",
+  "pos": "adj",
+  "meaning": "mysterious; having a hidden meaning",
+  "example": "She left a cryptic note of three words that nobody could explain.",
+  "synonyms": [
+   "enigmatic"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "enigmatic",
+  "pos": "adj",
+  "meaning": "puzzling; hard to interpret",
+  "example": "His enigmatic smile gave no hint of whether he was pleased or angry.",
+  "synonyms": [
+   "cryptic"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "nebulous",
+  "pos": "adj",
+  "meaning": "vague; without clear form",
+  "example": "The plan was still nebulous, with no dates, costs or names attached.",
+  "synonyms": [
+   "vague"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "convoluted",
+  "pos": "adj",
+  "meaning": "extremely complicated and hard to follow",
+  "example": "The plot was so convoluted that viewers needed a chart to track who had betrayed whom.",
+  "synonyms": [
+   "tortuous"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "obfuscate",
+  "pos": "v",
+  "meaning": "to make unclear on purpose",
+  "example": "The company used technical jargon to obfuscate the real cost of the loan.",
+  "synonyms": [
+   "obscure"
+  ],
+  "day": 7,
+  "week": 2,
+  "theme": "Clear vs. unclear"
+ },
+ {
+  "word": "haughty",
+  "pos": "adj",
+  "meaning": "proud and looking down on others",
+  "example": "The haughty duchess refused to speak to the servants directly.",
+  "synonyms": [
+   "supercilious",
+   "imperious"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "supercilious",
+  "pos": "adj",
+  "meaning": "behaving as if superior to others",
+  "example": "With a supercilious lift of his eyebrow, the waiter corrected my pronunciation.",
+  "synonyms": [
+   "haughty",
+   "condescending"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "condescending",
+  "pos": "adj",
+  "meaning": "treating others as less intelligent",
+  "example": "His condescending tone, as if he were explaining to a child, annoyed the experienced engineers.",
+  "synonyms": [
+   "patronizing"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "patronizing",
+  "pos": "adj",
+  "meaning": "kind in a way that shows a sense of superiority",
+  "example": "She gave him a patronizing pat on the head and told him it was a good try.",
+  "synonyms": [
+   "condescending"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "pompous",
+  "pos": "adj",
+  "meaning": "self-important and overly grand",
+  "example": "The pompous official insisted on being addressed by his full title at all times.",
+  "synonyms": [
+   "pretentious",
+   "bombastic"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "pretentious",
+  "pos": "adj",
+  "meaning": "trying to seem more important or cultured than one is",
+  "example": "The pretentious menu described plain toast as artisan grilled bread.",
+  "synonyms": [
+   "pompous"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "hubris",
+  "pos": "n",
+  "meaning": "excessive pride that leads to a fall",
+  "example": "In his hubris, the general ignored every warning and marched his army into the trap.",
+  "synonyms": [
+   "arrogance"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "imperious",
+  "pos": "adj",
+  "meaning": "arrogantly giving orders",
+  "example": "With an imperious wave of her hand, she dismissed the whole committee.",
+  "synonyms": [
+   "haughty"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "disdain",
+  "pos": "n, v",
+  "meaning": "the feeling that something is unworthy of respect",
+  "example": "She looked at the cheap gift with disdain and pushed it aside.",
+  "synonyms": [
+   "scorn",
+   "contempt"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "scorn",
+  "pos": "n, v",
+  "meaning": "open contempt; to reject with contempt",
+  "example": "The scientist scorned the idea and called it childish nonsense.",
+  "synonyms": [
+   "disdain",
+   "deride"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "contemptuous",
+  "pos": "adj",
+  "meaning": "showing a strong lack of respect",
+  "example": "His contemptuous laugh made it clear what he thought of their proposal.",
+  "synonyms": [
+   "scornful",
+   "disdainful"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "aloof",
+  "pos": "adj",
+  "meaning": "distant and not friendly",
+  "example": "She stayed aloof at parties and stood alone by the window.",
+  "synonyms": [
+   "detached",
+   "reserved"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "complacent",
+  "pos": "adj",
+  "meaning": "too satisfied with oneself to notice danger",
+  "example": "Complacent after years of success, the firm ignored its new competitors until it was too late.",
+  "synonyms": [
+   "smug"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "diffident",
+  "pos": "adj",
+  "meaning": "shy because of a lack of confidence",
+  "example": "Too diffident to raise his hand, he let others answer questions he knew well.",
+  "synonyms": [
+   "meek",
+   "self-effacing"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "self-effacing",
+  "pos": "adj",
+  "meaning": "not drawing attention to oneself; modest",
+  "example": "The self-effacing winner gave all the credit to her team.",
+  "synonyms": [
+   "unassuming"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "unassuming",
+  "pos": "adj",
+  "meaning": "modest; not showy",
+  "example": "Despite his fame, he lived in an unassuming house and drove an old car.",
+  "synonyms": [
+   "self-effacing"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "deferential",
+  "pos": "adj",
+  "meaning": "showing polite respect",
+  "example": "The young lawyer was deferential to the judge and never once interrupted.",
+  "synonyms": [
+   "respectful"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "meek",
+  "pos": "adj",
+  "meaning": "quiet, gentle and easily imposed on",
+  "example": "Too meek to complain, he ate the cold meal without a word.",
+  "synonyms": [
+   "docile",
+   "diffident"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "demure",
+  "pos": "adj",
+  "meaning": "quiet, modest and reserved",
+  "example": "She gave a demure smile and lowered her eyes when praised.",
+  "synonyms": [
+   "modest"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "abase",
+  "pos": "v",
+  "meaning": "to lower in rank or dignity; to humble",
+  "example": "He refused to abase himself by begging his former employee for a job.",
+  "synonyms": [
+   "humble",
+   "demean"
+  ],
+  "day": 8,
+  "week": 2,
+  "theme": "Pride and humility"
+ },
+ {
+  "word": "affluent",
+  "pos": "adj",
+  "meaning": "wealthy",
+  "example": "The affluent suburb was full of large houses and expensive cars.",
+  "synonyms": [
+   "opulent"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "opulent",
+  "pos": "adj",
+  "meaning": "rich and luxurious",
+  "example": "The opulent palace had gold ceilings and marble floors.",
+  "synonyms": [
+   "lavish"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "lavish",
+  "pos": "adj, v",
+  "meaning": "rich and generous; to give in large amounts",
+  "example": "They held a lavish wedding with a thousand guests and a ten-course dinner.",
+  "synonyms": [
+   "opulent",
+   "extravagant"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "prodigal",
+  "pos": "adj",
+  "meaning": "wastefully extravagant with money",
+  "example": "The prodigal heir spent his entire inheritance in two years.",
+  "synonyms": [
+   "profligate",
+   "spendthrift"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "profligate",
+  "pos": "adj",
+  "meaning": "recklessly wasteful; also immoral",
+  "example": "The profligate government borrowed billions for projects nobody needed.",
+  "synonyms": [
+   "prodigal"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "extravagant",
+  "pos": "adj",
+  "meaning": "spending or costing far too much",
+  "example": "Buying a third sports car seemed extravagant even to his rich friends.",
+  "synonyms": [
+   "lavish",
+   "prodigal"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "spendthrift",
+  "pos": "n",
+  "meaning": "a person who wastes money",
+  "example": "A spendthrift by nature, he was broke a week after every payday.",
+  "synonyms": [
+   "prodigal",
+   "profligate"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "munificent",
+  "pos": "adj",
+  "meaning": "extremely generous",
+  "example": "A munificent donor paid for the entire new hospital wing.",
+  "synonyms": [
+   "magnanimous"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "magnanimous",
+  "pos": "adj",
+  "meaning": "generous and forgiving, especially to a rival",
+  "example": "Magnanimous in victory, she praised the campaign of her defeated opponent.",
+  "synonyms": [
+   "munificent"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "squander",
+  "pos": "v",
+  "meaning": "to waste foolishly",
+  "example": "He squandered his savings on lottery tickets.",
+  "synonyms": [
+   "waste",
+   "fritter"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "frugal",
+  "pos": "adj",
+  "meaning": "careful with money; economical",
+  "example": "A frugal student, she cooked at home and walked everywhere to save money.",
+  "synonyms": [
+   "thrifty"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "thrifty",
+  "pos": "adj",
+  "meaning": "using money carefully",
+  "example": "Thrifty shoppers wait for the sales before buying winter coats.",
+  "synonyms": [
+   "frugal"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "parsimonious",
+  "pos": "adj",
+  "meaning": "extremely unwilling to spend money",
+  "example": "The parsimonious owner refused to heat the office even in January.",
+  "synonyms": [
+   "miserly"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "miserly",
+  "pos": "adj",
+  "meaning": "hating to spend money; stingy",
+  "example": "The miserly old man kept a fortune in the bank while wearing torn shoes.",
+  "synonyms": [
+   "parsimonious"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "austere",
+  "pos": "adj",
+  "meaning": "severely plain; strict and without comfort",
+  "example": "The monk's austere room held only a bed, a chair and a candle.",
+  "synonyms": [
+   "spartan",
+   "stark"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "indigent",
+  "pos": "adj",
+  "meaning": "very poor; needy",
+  "example": "The clinic offers free care to indigent patients who cannot pay.",
+  "synonyms": [
+   "destitute",
+   "impoverished"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "destitute",
+  "pos": "adj",
+  "meaning": "without money, food or a home",
+  "example": "The fire left the family destitute, with nothing but the clothes they wore.",
+  "synonyms": [
+   "indigent"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "impoverished",
+  "pos": "adj",
+  "meaning": "made poor; weakened",
+  "example": "Drought impoverished the farmers, who had to sell their land.",
+  "synonyms": [
+   "indigent"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "avarice",
+  "pos": "n",
+  "meaning": "extreme greed for wealth",
+  "example": "Driven by avarice, the banker risked his clients' savings for a larger bonus.",
+  "synonyms": [
+   "greed"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "solvent",
+  "pos": "adj",
+  "meaning": "able to pay one's debts",
+  "example": "The loan kept the company solvent through a year of falling sales.",
+  "synonyms": [
+   "creditworthy"
+  ],
+  "day": 9,
+  "week": 2,
+  "theme": "Wealth and poverty, spending and saving"
+ },
+ {
+  "word": "qualify",
+  "pos": "v",
+  "meaning": "to limit or soften a statement",
+  "example": "She qualified her praise by adding that the plan still had serious gaps.",
+  "synonyms": [
+   "temper",
+   "modify"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "table",
+  "pos": "v",
+  "meaning": "to postpone discussion of (US usage)",
+  "example": "The committee tabled the proposal until next year, so no vote was taken.",
+  "synonyms": [
+   "shelve",
+   "defer"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "flag",
+  "pos": "v",
+  "meaning": "to grow tired or weaker",
+  "example": "After six hours of climbing, their energy began to flag and the pace slowed.",
+  "synonyms": [
+   "wane"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "check",
+  "pos": "v, n",
+  "meaning": "to stop or restrain; a restraint",
+  "example": "The new law was designed to check the growth of monopolies.",
+  "synonyms": [
+   "stem",
+   "curtail"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "arrest",
+  "pos": "v",
+  "meaning": "to stop or slow a process; to catch attention",
+  "example": "The drug arrested the spread of the infection within days.",
+  "synonyms": [
+   "check",
+   "stem"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "want",
+  "pos": "n, v",
+  "meaning": "a lack; to lack",
+  "example": "The project failed for want of funds, not for want of effort.",
+  "synonyms": [
+   "dearth",
+   "paucity"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "temper",
+  "pos": "v",
+  "meaning": "to make less extreme; to moderate",
+  "example": "He tempered his criticism with a few kind words about her effort.",
+  "synonyms": [
+   "qualify",
+   "mitigate"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "sanction",
+  "pos": "v, n",
+  "meaning": "to approve officially; also a penalty",
+  "example": "The board sanctioned the merger, so the deal could finally go ahead.",
+  "synonyms": [
+   "authorize",
+   "endorse"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "appropriate",
+  "pos": "v",
+  "meaning": "to take for one's own use, often without permission",
+  "example": "The general appropriated the villagers' grain to feed his army.",
+  "synonyms": [
+   "seize",
+   "commandeer"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "intimate",
+  "pos": "v",
+  "meaning": "to hint or suggest indirectly",
+  "example": "She intimated that she might resign, though she never said so directly.",
+  "synonyms": [
+   "insinuate",
+   "allude"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "exact",
+  "pos": "v",
+  "meaning": "to demand and obtain by force or authority",
+  "example": "The gang exacted payment from every shopkeeper on the street.",
+  "synonyms": [
+   "extort",
+   "demand"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "champion",
+  "pos": "v",
+  "meaning": "to support or defend a cause",
+  "example": "The senator championed the rights of workers throughout her career.",
+  "synonyms": [
+   "advocate",
+   "espouse"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "pedestrian",
+  "pos": "adj",
+  "meaning": "dull and ordinary",
+  "example": "The film's pedestrian plot offered nothing that viewers had not seen a hundred times.",
+  "synonyms": [
+   "prosaic",
+   "mundane"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "patent",
+  "pos": "adj",
+  "meaning": "obvious; plain to see",
+  "example": "It was a patent lie, since everyone had watched him take the money.",
+  "synonyms": [
+   "manifest",
+   "blatant"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "discriminating",
+  "pos": "adj",
+  "meaning": "having fine judgment or taste",
+  "example": "A discriminating reader, she could tell a great novel from a merely good one.",
+  "synonyms": [
+   "discerning"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "tender",
+  "pos": "v",
+  "meaning": "to offer formally",
+  "example": "The minister tendered his resignation the morning after the scandal broke.",
+  "synonyms": [
+   "offer",
+   "submit"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "husband",
+  "pos": "v",
+  "meaning": "to use carefully and sparingly",
+  "example": "Lost in the desert, they husbanded their water and drank only a sip an hour.",
+  "synonyms": [
+   "conserve"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "court",
+  "pos": "v",
+  "meaning": "to try to win favor; to risk inviting something bad",
+  "example": "By ignoring the safety rules, the climbers were courting disaster.",
+  "synonyms": [
+   "invite",
+   "woo"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "stem",
+  "pos": "v",
+  "meaning": "to stop the flow of; also stem from = to come from",
+  "example": "Nurses pressed on the wound to stem the bleeding.",
+  "synonyms": [
+   "check",
+   "arrest"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "weather",
+  "pos": "v",
+  "meaning": "to come safely through a difficulty",
+  "example": "The small shop weathered the recession and even grew afterwards.",
+  "synonyms": [
+   "withstand",
+   "endure"
+  ],
+  "day": 10,
+  "week": 2,
+  "theme": "Ordinary words with a second meaning the GRE loves"
+ },
+ {
+  "word": "assiduous",
+  "pos": "adj",
+  "meaning": "hard-working and persistent",
+  "example": "Assiduous practice, three hours every day, made her the best pianist in the school.",
+  "synonyms": [
+   "diligent",
+   "industrious"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "diligent",
+  "pos": "adj",
+  "meaning": "steady and careful in work",
+  "example": "A diligent student, he reviewed his notes after every class.",
+  "synonyms": [
+   "assiduous"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "industrious",
+  "pos": "adj",
+  "meaning": "hard-working",
+  "example": "The industrious ants carried food to the nest from dawn to dusk.",
+  "synonyms": [
+   "diligent"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "indefatigable",
+  "pos": "adj",
+  "meaning": "never getting tired",
+  "example": "An indefatigable campaigner, she knocked on doors for twelve hours a day.",
+  "synonyms": [
+   "tireless",
+   "tenacious"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "meticulous",
+  "pos": "adj",
+  "meaning": "very careful about small details",
+  "example": "The meticulous editor checked every comma in the 600-page book.",
+  "synonyms": [
+   "fastidious",
+   "painstaking"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "fastidious",
+  "pos": "adj",
+  "meaning": "very fussy about detail or cleanliness",
+  "example": "Fastidious about hygiene, he washed his hands after touching any door handle.",
+  "synonyms": [
+   "meticulous"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "painstaking",
+  "pos": "adj",
+  "meaning": "done with great care and effort",
+  "example": "After years of painstaking research, she finally traced the author of the letter.",
+  "synonyms": [
+   "meticulous"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "conscientious",
+  "pos": "adj",
+  "meaning": "wishing to do one's work well and thoroughly",
+  "example": "The conscientious nurse double-checked every dose before giving it.",
+  "synonyms": [
+   "diligent",
+   "scrupulous"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "zealous",
+  "pos": "adj",
+  "meaning": "full of eager enthusiasm for a cause",
+  "example": "Zealous volunteers worked through the night to finish the shelter.",
+  "synonyms": [
+   "ardent",
+   "fervent"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "ardent",
+  "pos": "adj",
+  "meaning": "passionate; very enthusiastic",
+  "example": "An ardent supporter of the team, he had not missed a match in twenty years.",
+  "synonyms": [
+   "fervent",
+   "zealous"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "fervent",
+  "pos": "adj",
+  "meaning": "showing strong, sincere feeling",
+  "example": "She made a fervent appeal for donations, her voice shaking with emotion.",
+  "synonyms": [
+   "ardent"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "lethargic",
+  "pos": "adj",
+  "meaning": "lacking energy; sluggish",
+  "example": "The heavy lunch left everyone lethargic and yawning through the afternoon meeting.",
+  "synonyms": [
+   "languid",
+   "listless"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "indolent",
+  "pos": "adj",
+  "meaning": "lazy; avoiding effort",
+  "example": "The indolent clerk let papers pile up for weeks rather than file them.",
+  "synonyms": [
+   "lazy",
+   "slothful"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "apathetic",
+  "pos": "adj",
+  "meaning": "showing no interest or concern",
+  "example": "Apathetic voters stayed home and said the result made no difference to them.",
+  "synonyms": [
+   "indifferent",
+   "listless"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "languid",
+  "pos": "adj",
+  "meaning": "slow and relaxed; lacking energy",
+  "example": "With a languid wave from her deckchair, she sent the waiter for another drink.",
+  "synonyms": [
+   "lethargic"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "listless",
+  "pos": "adj",
+  "meaning": "having no energy or enthusiasm",
+  "example": "The fever left the child listless and uninterested even in her favorite toys.",
+  "synonyms": [
+   "lethargic",
+   "languid"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "perfunctory",
+  "pos": "adj",
+  "meaning": "done quickly as a duty, without care",
+  "example": "The guard gave our bags a perfunctory glance and waved us through.",
+  "synonyms": [
+   "cursory"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "cursory",
+  "pos": "adj",
+  "meaning": "quick and not thorough",
+  "example": "A cursory reading missed the error that a careful one would have caught.",
+  "synonyms": [
+   "perfunctory"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "negligent",
+  "pos": "adj",
+  "meaning": "failing to take proper care",
+  "example": "The negligent driver was texting when he hit the cyclist.",
+  "synonyms": [
+   "remiss"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "remiss",
+  "pos": "adj",
+  "meaning": "careless in doing one's duty",
+  "example": "It was remiss of me not to thank you earlier for your help.",
+  "synonyms": [
+   "negligent"
+  ],
+  "day": 11,
+  "week": 3,
+  "theme": "Hard work and care vs. laziness and carelessness"
+ },
+ {
+  "word": "contentious",
+  "pos": "adj",
+  "meaning": "causing argument; fond of arguing",
+  "example": "The contentious issue of school fees split the council for months.",
+  "synonyms": [
+   "controversial",
+   "polemical"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "belligerent",
+  "pos": "adj",
+  "meaning": "hostile and ready to fight",
+  "example": "The belligerent customer shouted at staff and threatened to break the window.",
+  "synonyms": [
+   "bellicose",
+   "pugnacious"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "bellicose",
+  "pos": "adj",
+  "meaning": "eager to fight or go to war",
+  "example": "The bellicose speech, full of threats, alarmed neighboring countries.",
+  "synonyms": [
+   "belligerent"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "pugnacious",
+  "pos": "adj",
+  "meaning": "quick to argue or fight",
+  "example": "The pugnacious player was sent off for starting a third brawl.",
+  "synonyms": [
+   "belligerent",
+   "truculent"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "truculent",
+  "pos": "adj",
+  "meaning": "aggressively defiant",
+  "example": "The truculent teenager met every request with a glare and a refusal.",
+  "synonyms": [
+   "pugnacious"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "polemical",
+  "pos": "adj",
+  "meaning": "strongly attacking an opinion in argument",
+  "example": "His polemical essay attacked the policy line by line and spared no one.",
+  "synonyms": [
+   "contentious"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "antagonize",
+  "pos": "v",
+  "meaning": "to make someone hostile",
+  "example": "Her constant corrections antagonized colleagues who had once liked her.",
+  "synonyms": [
+   "alienate",
+   "provoke"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "animosity",
+  "pos": "n",
+  "meaning": "strong hostility",
+  "example": "The animosity between the brothers was so strong that they had not spoken in ten years.",
+  "synonyms": [
+   "enmity",
+   "rancor"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "enmity",
+  "pos": "n",
+  "meaning": "deep, lasting hatred between people",
+  "example": "Decades of enmity between the clans ended with a marriage.",
+  "synonyms": [
+   "animosity"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "rancor",
+  "pos": "n",
+  "meaning": "long-lasting bitterness",
+  "example": "She spoke of her former boss without rancor, having forgiven him long ago.",
+  "synonyms": [
+   "acrimony",
+   "animosity"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "acrimony",
+  "pos": "n",
+  "meaning": "bitterness in speech or manner",
+  "example": "The divorce ended in acrimony, with each side insulting the other in court.",
+  "synonyms": [
+   "rancor"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "discord",
+  "pos": "n",
+  "meaning": "disagreement; lack of harmony",
+  "example": "The inheritance sowed discord among the siblings, who stopped speaking to one another.",
+  "synonyms": [
+   "strife",
+   "dissonance"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "dissent",
+  "pos": "n, v",
+  "meaning": "disagreement with the official or majority view",
+  "example": "Two judges dissented and wrote that the majority had misread the law.",
+  "synonyms": [
+   "disagree",
+   "object"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "refute",
+  "pos": "v",
+  "meaning": "to prove wrong",
+  "example": "The new measurements refuted the theory that scientists had accepted for decades.",
+  "synonyms": [
+   "debunk",
+   "disprove"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "repudiate",
+  "pos": "v",
+  "meaning": "to reject or refuse to accept",
+  "example": "The party repudiated its former leader's remarks and expelled him.",
+  "synonyms": [
+   "reject",
+   "disavow"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "concur",
+  "pos": "v",
+  "meaning": "to agree",
+  "example": "All three doctors concurred that surgery was the only option.",
+  "synonyms": [
+   "agree",
+   "assent"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "consensus",
+  "pos": "n",
+  "meaning": "general agreement",
+  "example": "After hours of debate, the group reached a consensus that everyone could accept.",
+  "synonyms": [
+   "accord"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "amicable",
+  "pos": "adj",
+  "meaning": "friendly and without quarrel",
+  "example": "The split was amicable, and the former partners still have lunch together.",
+  "synonyms": [
+   "cordial"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "affable",
+  "pos": "adj",
+  "meaning": "friendly and easy to talk to",
+  "example": "The affable host greeted every guest by name and made them feel at home.",
+  "synonyms": [
+   "cordial",
+   "amicable"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "cordial",
+  "pos": "adj",
+  "meaning": "warm and friendly",
+  "example": "Relations between the two firms stayed cordial despite the tough competition.",
+  "synonyms": [
+   "amicable",
+   "affable"
+  ],
+  "day": 12,
+  "week": 3,
+  "theme": "Conflict and agreement"
+ },
+ {
+  "word": "novel",
+  "pos": "adj",
+  "meaning": "new and original",
+  "example": "She proposed a novel method that no one in the field had tried before.",
+  "synonyms": [
+   "unprecedented",
+   "original"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "unprecedented",
+  "pos": "adj",
+  "meaning": "never done or known before",
+  "example": "The flood was unprecedented, higher than any in the town's 300 years of records.",
+  "synonyms": [
+   "novel"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "nascent",
+  "pos": "adj",
+  "meaning": "just beginning to exist",
+  "example": "The nascent industry had only three companies and no rules yet.",
+  "synonyms": [
+   "incipient",
+   "inchoate"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "incipient",
+  "pos": "adj",
+  "meaning": "beginning to develop",
+  "example": "The doctor caught the incipient infection before it could spread.",
+  "synonyms": [
+   "nascent"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "burgeoning",
+  "pos": "adj",
+  "meaning": "growing or expanding quickly",
+  "example": "The burgeoning city doubled its population in ten years.",
+  "synonyms": [
+   "flourishing",
+   "expanding"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "archaic",
+  "pos": "adj",
+  "meaning": "very old; no longer in use",
+  "example": "The law was written in archaic language that no modern reader used.",
+  "synonyms": [
+   "antiquated",
+   "obsolete"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "obsolete",
+  "pos": "adj",
+  "meaning": "no longer used; out of date",
+  "example": "Smartphones made paper maps nearly obsolete.",
+  "synonyms": [
+   "antiquated"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "antiquated",
+  "pos": "adj",
+  "meaning": "old-fashioned; outdated",
+  "example": "The office still ran on antiquated computers from the 1990s.",
+  "synonyms": [
+   "archaic",
+   "obsolete"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "anachronism",
+  "pos": "n",
+  "meaning": "something placed in the wrong period of time",
+  "example": "The wristwatch on the Roman soldier was an obvious anachronism in the film.",
+  "synonyms": [
+   "misplacement in time"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "banal",
+  "pos": "adj",
+  "meaning": "so ordinary as to be boring",
+  "example": "The speech was full of banal remarks about how quickly time passes.",
+  "synonyms": [
+   "trite",
+   "hackneyed"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "trite",
+  "pos": "adj",
+  "meaning": "overused and unoriginal",
+  "example": "Telling graduates to follow their dreams is trite advice that they have all heard before.",
+  "synonyms": [
+   "banal",
+   "hackneyed"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "hackneyed",
+  "pos": "adj",
+  "meaning": "used so often that it has lost its force",
+  "example": "The hackneyed plot of a poor boy winning a rich girl bored the audience.",
+  "synonyms": [
+   "trite"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "prosaic",
+  "pos": "adj",
+  "meaning": "ordinary; lacking imagination",
+  "example": "His prosaic description made even the volcano sound dull.",
+  "synonyms": [
+   "mundane",
+   "pedestrian"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "mundane",
+  "pos": "adj",
+  "meaning": "ordinary; everyday",
+  "example": "She longed to escape mundane chores like washing dishes and paying bills.",
+  "synonyms": [
+   "prosaic"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "insipid",
+  "pos": "adj",
+  "meaning": "lacking flavor or interest",
+  "example": "The soup was insipid, as if no salt or spice had come near it.",
+  "synonyms": [
+   "vapid",
+   "bland"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "vapid",
+  "pos": "adj",
+  "meaning": "offering nothing interesting or intelligent",
+  "example": "The vapid conversation about the weather made him wish he had stayed home.",
+  "synonyms": [
+   "insipid",
+   "inane"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "derivative",
+  "pos": "adj",
+  "meaning": "copied from others; unoriginal",
+  "example": "Critics called the album derivative, a pale copy of the band's heroes.",
+  "synonyms": [
+   "unoriginal",
+   "imitative"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "orthodox",
+  "pos": "adj",
+  "meaning": "following accepted beliefs or practices",
+  "example": "The orthodox treatment is surgery, though some doctors now try newer methods.",
+  "synonyms": [
+   "conventional"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "idiosyncratic",
+  "pos": "adj",
+  "meaning": "peculiar to one individual",
+  "example": "His idiosyncratic filing system made sense to no one but himself.",
+  "synonyms": [
+   "eccentric"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "anomaly",
+  "pos": "n",
+  "meaning": "something that differs from the normal",
+  "example": "A snowstorm in July was an anomaly that puzzled weather experts.",
+  "synonyms": [
+   "aberration"
+  ],
+  "day": 13,
+  "week": 3,
+  "theme": "New, old and ordinary"
+ },
+ {
+  "word": "erudite",
+  "pos": "adj",
+  "meaning": "having great knowledge from study",
+  "example": "The erudite professor could quote texts in six languages from memory.",
+  "synonyms": [
+   "learned",
+   "scholarly"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "astute",
+  "pos": "adj",
+  "meaning": "quick to see how to gain an advantage",
+  "example": "An astute investor, she sold her shares just before the market fell.",
+  "synonyms": [
+   "shrewd",
+   "perspicacious"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "shrewd",
+  "pos": "adj",
+  "meaning": "having sharp practical judgment",
+  "example": "The shrewd trader spotted the fake at once and refused to pay.",
+  "synonyms": [
+   "astute"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "sagacious",
+  "pos": "adj",
+  "meaning": "wise and showing good judgment",
+  "example": "The sagacious judge found a solution that satisfied both families.",
+  "synonyms": [
+   "judicious"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "perspicacious",
+  "pos": "adj",
+  "meaning": "having keen insight",
+  "example": "A perspicacious reader will notice the clue hidden in the first chapter.",
+  "synonyms": [
+   "astute",
+   "discerning"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "judicious",
+  "pos": "adj",
+  "meaning": "showing good judgment; sensible",
+  "example": "A judicious use of salt improves the dish, but too much ruins it.",
+  "synonyms": [
+   "prudent",
+   "sagacious"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "prudent",
+  "pos": "adj",
+  "meaning": "careful and sensible about the future",
+  "example": "It is prudent to save part of your salary in case you lose your job.",
+  "synonyms": [
+   "judicious",
+   "circumspect"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "discerning",
+  "pos": "adj",
+  "meaning": "able to judge quality well",
+  "example": "Discerning diners can taste the difference between fresh and frozen fish.",
+  "synonyms": [
+   "discriminating",
+   "perspicacious"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "acumen",
+  "pos": "n",
+  "meaning": "the ability to make quick, good judgments",
+  "example": "Her business acumen turned a small stall into a national chain.",
+  "synonyms": [
+   "shrewdness"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "pragmatic",
+  "pos": "adj",
+  "meaning": "practical rather than idealistic",
+  "example": "Taking a pragmatic view, he accepted a small gain now instead of waiting for a perfect deal.",
+  "synonyms": [
+   "practical"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "naive",
+  "pos": "adj",
+  "meaning": "lacking experience and too trusting",
+  "example": "It was naive to believe that the stranger would return the money.",
+  "synonyms": [
+   "credulous",
+   "ingenuous"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "credulous",
+  "pos": "adj",
+  "meaning": "too ready to believe things",
+  "example": "Credulous buyers believed the advert's claim that the pill would make them taller.",
+  "synonyms": [
+   "gullible"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "gullible",
+  "pos": "adj",
+  "meaning": "easily fooled",
+  "example": "The gullible tourist paid ten times the real price for the fake watch.",
+  "synonyms": [
+   "credulous"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "obtuse",
+  "pos": "adj",
+  "meaning": "slow to understand",
+  "example": "He was too obtuse to notice that everyone was hinting he should leave.",
+  "synonyms": [
+   "dense"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "fatuous",
+  "pos": "adj",
+  "meaning": "silly and pointless",
+  "example": "The minister's fatuous remark that the poor should simply earn more angered everyone.",
+  "synonyms": [
+   "inane"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "inane",
+  "pos": "adj",
+  "meaning": "silly; without meaning",
+  "example": "The talk show was filled with inane chatter about the pets of celebrities.",
+  "synonyms": [
+   "fatuous",
+   "vapid"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "myopic",
+  "pos": "adj",
+  "meaning": "short-sighted; lacking long-term thinking",
+  "example": "The myopic decision to cut training saved money this year and cost far more later.",
+  "synonyms": [
+   "short-sighted"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "pedantic",
+  "pos": "adj",
+  "meaning": "too concerned with small rules and details",
+  "example": "The pedantic reviewer ignored the ideas and listed every misplaced comma.",
+  "synonyms": [
+   "fussy",
+   "hairsplitting"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "didactic",
+  "pos": "adj",
+  "meaning": "intended to teach, often in a preachy way",
+  "example": "The novel was so didactic that it read like a lecture on good manners.",
+  "synonyms": [
+   "preachy",
+   "instructive"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "dilettante",
+  "pos": "n",
+  "meaning": "a person with only a shallow interest in a subject",
+  "example": "A dilettante in painting, he bought the best brushes and gave up after a month.",
+  "synonyms": [
+   "dabbler",
+   "amateur"
+  ],
+  "day": 14,
+  "week": 3,
+  "theme": "Wisdom and foolishness"
+ },
+ {
+  "word": "corroborate",
+  "pos": "v",
+  "meaning": "to confirm with evidence",
+  "example": "A second witness corroborated her story by describing the same car and driver.",
+  "synonyms": [
+   "substantiate",
+   "validate"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "substantiate",
+  "pos": "v",
+  "meaning": "to provide evidence for",
+  "example": "He could not substantiate his claim, having no documents or witnesses.",
+  "synonyms": [
+   "corroborate"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "validate",
+  "pos": "v",
+  "meaning": "to confirm as true or sound",
+  "example": "The experiment validated the model by matching its predictions exactly.",
+  "synonyms": [
+   "corroborate"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "vindicate",
+  "pos": "v",
+  "meaning": "to clear of blame; to prove right",
+  "example": "The DNA test vindicated the prisoner, who had insisted for years that he was innocent.",
+  "synonyms": [
+   "exonerate"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "underscore",
+  "pos": "v",
+  "meaning": "to emphasize",
+  "example": "The accident underscored the need for better lighting on the road.",
+  "synonyms": [
+   "emphasize",
+   "highlight"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "advocate",
+  "pos": "v, n",
+  "meaning": "to support publicly; a supporter",
+  "example": "Doctors advocate regular exercise as the best protection against heart disease.",
+  "synonyms": [
+   "champion",
+   "espouse"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "espouse",
+  "pos": "v",
+  "meaning": "to adopt or support a belief or cause",
+  "example": "She espoused vegetarianism and persuaded half her office to try it.",
+  "synonyms": [
+   "advocate",
+   "champion"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "proponent",
+  "pos": "n",
+  "meaning": "a person who argues for something",
+  "example": "A proponent of free trade, he argued against every new tariff.",
+  "synonyms": [
+   "advocate"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "contend",
+  "pos": "v",
+  "meaning": "to argue or claim; also to struggle",
+  "example": "The lawyers contend that the contract was never valid.",
+  "synonyms": [
+   "aver",
+   "assert"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "posit",
+  "pos": "v",
+  "meaning": "to put forward as a basis for argument",
+  "example": "The theory posits that the moon was once part of the earth.",
+  "synonyms": [
+   "postulate"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "conjecture",
+  "pos": "n, v",
+  "meaning": "a guess based on incomplete information",
+  "example": "Without data, his estimate of the cost was mere conjecture.",
+  "synonyms": [
+   "surmise",
+   "speculation"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "surmise",
+  "pos": "v",
+  "meaning": "to guess from limited evidence",
+  "example": "Seeing the wet umbrella, she surmised that it was raining outside.",
+  "synonyms": [
+   "conjecture"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "skeptical",
+  "pos": "adj",
+  "meaning": "doubting; not easily convinced",
+  "example": "Skeptical investors asked to see the accounts before believing the profit figures.",
+  "synonyms": [
+   "dubious",
+   "incredulous"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "dubious",
+  "pos": "adj",
+  "meaning": "doubtful; of uncertain quality or truth",
+  "example": "The email made the dubious claim that I had won a lottery I never entered.",
+  "synonyms": [
+   "skeptical",
+   "questionable"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "incredulous",
+  "pos": "adj",
+  "meaning": "unwilling or unable to believe",
+  "example": "She gave him an incredulous stare when he said he had walked the whole way.",
+  "synonyms": [
+   "skeptical"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "tenuous",
+  "pos": "adj",
+  "meaning": "very weak or slight",
+  "example": "The link between the two events was tenuous and rested on a single rumor.",
+  "synonyms": [
+   "flimsy"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "untenable",
+  "pos": "adj",
+  "meaning": "impossible to defend or maintain",
+  "example": "After the leaked emails, his position became untenable and he resigned.",
+  "synonyms": [
+   "indefensible"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "plausible",
+  "pos": "adj",
+  "meaning": "seeming reasonable or likely",
+  "example": "Her excuse was plausible, since the trains really had been delayed that morning.",
+  "synonyms": [
+   "credible"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "belie",
+  "pos": "v",
+  "meaning": "to give a false impression of; to contradict",
+  "example": "His calm voice belied the panic he felt inside.",
+  "synonyms": [
+   "contradict",
+   "mask"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "debunk",
+  "pos": "v",
+  "meaning": "to expose as false",
+  "example": "The documentary debunked the myth that we use only ten percent of our brains.",
+  "synonyms": [
+   "refute"
+  ],
+  "day": 15,
+  "week": 3,
+  "theme": "Supporting, claiming and doubting"
+ },
+ {
+  "word": "copious",
+  "pos": "adj",
+  "meaning": "in large amounts",
+  "example": "She took copious notes and filled three notebooks in one week.",
+  "synonyms": [
+   "profuse",
+   "abundant"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "profuse",
+  "pos": "adj",
+  "meaning": "given or produced in great quantity",
+  "example": "He offered profuse apologies and said sorry at least ten times.",
+  "synonyms": [
+   "copious"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "plethora",
+  "pos": "n",
+  "meaning": "an amount that is more than enough",
+  "example": "Shoppers face a plethora of choices, with fifty brands of cereal on one shelf.",
+  "synonyms": [
+   "surfeit",
+   "glut"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "surfeit",
+  "pos": "n",
+  "meaning": "an excessive amount",
+  "example": "After a surfeit of rich food at the festival, nobody wanted dinner.",
+  "synonyms": [
+   "glut",
+   "plethora"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "glut",
+  "pos": "n",
+  "meaning": "an oversupply",
+  "example": "A glut of oil on the market pushed prices to a ten-year low.",
+  "synonyms": [
+   "surfeit"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "replete",
+  "pos": "adj",
+  "meaning": "filled or well supplied with",
+  "example": "The report was replete with errors, at least one on every page.",
+  "synonyms": [
+   "rife"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "rife",
+  "pos": "adj",
+  "meaning": "widespread, usually of something bad",
+  "example": "The camp was rife with disease because there was no clean water.",
+  "synonyms": [
+   "prevalent",
+   "replete"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "ubiquitous",
+  "pos": "adj",
+  "meaning": "found everywhere",
+  "example": "Smartphones are now ubiquitous, seen in every hand on every street.",
+  "synonyms": [
+   "pervasive"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "pervasive",
+  "pos": "adj",
+  "meaning": "spreading through every part",
+  "example": "The smell of smoke was pervasive and clung to every room in the house.",
+  "synonyms": [
+   "ubiquitous",
+   "prevalent"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "prevalent",
+  "pos": "adj",
+  "meaning": "common at a particular time or place",
+  "example": "Flu is most prevalent in winter, when clinics fill with patients.",
+  "synonyms": [
+   "rife",
+   "pervasive"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "myriad",
+  "pos": "adj, n",
+  "meaning": "countless; a very large number",
+  "example": "The night sky showed myriad stars, far too many to count.",
+  "synonyms": [
+   "countless"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "superfluous",
+  "pos": "adj",
+  "meaning": "more than is needed; unnecessary",
+  "example": "Cut the superfluous words, and your essay will be half as long and twice as clear.",
+  "synonyms": [
+   "extraneous",
+   "redundant"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "extraneous",
+  "pos": "adj",
+  "meaning": "not relevant or essential",
+  "example": "The editor removed extraneous details that had nothing to do with the main story.",
+  "synonyms": [
+   "superfluous"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "dearth",
+  "pos": "n",
+  "meaning": "a lack or shortage",
+  "example": "A dearth of qualified teachers forced the school to cancel its physics classes.",
+  "synonyms": [
+   "paucity",
+   "want"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "paucity",
+  "pos": "n",
+  "meaning": "smallness of number or amount",
+  "example": "The paucity of evidence, a single blurred photo, made conviction impossible.",
+  "synonyms": [
+   "dearth"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "scant",
+  "pos": "adj",
+  "meaning": "barely enough; very little",
+  "example": "He paid scant attention to the warning and soon regretted it.",
+  "synonyms": [
+   "meager",
+   "sparse"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "meager",
+  "pos": "adj",
+  "meaning": "small in amount and poor in quality",
+  "example": "They survived on a meager diet of rice and water.",
+  "synonyms": [
+   "scant"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "sparse",
+  "pos": "adj",
+  "meaning": "thinly spread; not dense",
+  "example": "Trees are sparse in the desert, with miles of sand between them.",
+  "synonyms": [
+   "scant"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "devoid",
+  "pos": "adj",
+  "meaning": "completely without",
+  "example": "The landscape was devoid of life, with not even an insect to be seen.",
+  "synonyms": [
+   "bereft"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "bereft",
+  "pos": "adj",
+  "meaning": "deprived of; lacking, often with sadness",
+  "example": "Bereft of hope after the third rejection, he stopped applying altogether.",
+  "synonyms": [
+   "devoid"
+  ],
+  "day": 16,
+  "week": 4,
+  "theme": "Abundance and lack"
+ },
+ {
+  "word": "curtail",
+  "pos": "v",
+  "meaning": "to cut short or reduce",
+  "example": "Budget cuts forced the library to curtail its opening hours.",
+  "synonyms": [
+   "truncate",
+   "reduce"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "constrain",
+  "pos": "v",
+  "meaning": "to limit or restrict",
+  "example": "A lack of funds constrained the team, which could afford only one experiment.",
+  "synonyms": [
+   "inhibit",
+   "hamper"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "hamper",
+  "pos": "v",
+  "meaning": "to slow or make difficult",
+  "example": "Heavy rain hampered the rescue effort and turned the roads to mud.",
+  "synonyms": [
+   "hinder",
+   "impede"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "hinder",
+  "pos": "v",
+  "meaning": "to delay or obstruct",
+  "example": "A sprained ankle hindered her progress up the hill.",
+  "synonyms": [
+   "hamper",
+   "impede"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "impede",
+  "pos": "v",
+  "meaning": "to get in the way of",
+  "example": "Fallen trees impeded the ambulance, which arrived an hour late.",
+  "synonyms": [
+   "hinder",
+   "hamper"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "stymie",
+  "pos": "v",
+  "meaning": "to block or frustrate completely",
+  "example": "The detectives were stymied by a total lack of clues.",
+  "synonyms": [
+   "thwart"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "thwart",
+  "pos": "v",
+  "meaning": "to prevent from succeeding",
+  "example": "Guards thwarted the escape by sealing the tunnel just in time.",
+  "synonyms": [
+   "stymie",
+   "foil"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "inhibit",
+  "pos": "v",
+  "meaning": "to hold back or restrain",
+  "example": "Fear of ridicule inhibits many students from asking questions.",
+  "synonyms": [
+   "constrain"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "preclude",
+  "pos": "v",
+  "meaning": "to make impossible in advance",
+  "example": "His injury precluded any chance of playing in the final.",
+  "synonyms": [
+   "forestall",
+   "obviate"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "forestall",
+  "pos": "v",
+  "meaning": "to prevent by acting first",
+  "example": "The company forestalled a strike by raising wages before the union could vote.",
+  "synonyms": [
+   "preclude"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "obviate",
+  "pos": "v",
+  "meaning": "to remove the need for",
+  "example": "Online banking obviates the need to visit a branch.",
+  "synonyms": [
+   "preclude"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "stifle",
+  "pos": "v",
+  "meaning": "to suppress or hold back",
+  "example": "Strict rules stifled creativity, and the designers stopped suggesting new ideas.",
+  "synonyms": [
+   "quell",
+   "suppress"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "quell",
+  "pos": "v",
+  "meaning": "to put an end to, often by force; to calm",
+  "example": "Troops were called in to quell the riot.",
+  "synonyms": [
+   "stifle",
+   "suppress"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "deter",
+  "pos": "v",
+  "meaning": "to discourage from acting",
+  "example": "High fines deter drivers from speeding near schools.",
+  "synonyms": [
+   "discourage"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "encumber",
+  "pos": "v",
+  "meaning": "to weigh down or burden",
+  "example": "Encumbered by heavy bags, she could not run for the bus.",
+  "synonyms": [
+   "hamper",
+   "burden"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "foster",
+  "pos": "v",
+  "meaning": "to encourage the growth of",
+  "example": "Small classes foster close ties between teachers and pupils.",
+  "synonyms": [
+   "nurture",
+   "promote"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "facilitate",
+  "pos": "v",
+  "meaning": "to make easier",
+  "example": "The new bridge facilitated trade between the two towns.",
+  "synonyms": [
+   "expedite"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "expedite",
+  "pos": "v",
+  "meaning": "to make happen sooner",
+  "example": "Paying an extra fee will expedite your passport, which then arrives in two days.",
+  "synonyms": [
+   "facilitate"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "abet",
+  "pos": "v",
+  "meaning": "to help someone do wrong",
+  "example": "He was charged with abetting the thief by lending him a car.",
+  "synonyms": [
+   "aid",
+   "assist"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "galvanize",
+  "pos": "v",
+  "meaning": "to shock or excite into action",
+  "example": "The photo of the flooded village galvanized the public into donating millions.",
+  "synonyms": [
+   "spur"
+  ],
+  "day": 17,
+  "week": 4,
+  "theme": "Blocking and helping"
+ },
+ {
+  "word": "abate",
+  "pos": "v",
+  "meaning": "to become less intense",
+  "example": "We waited indoors until the storm abated and the wind dropped.",
+  "synonyms": [
+   "subside",
+   "wane"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "subside",
+  "pos": "v",
+  "meaning": "to become calmer or lower",
+  "example": "Her anger subsided once she heard the full explanation.",
+  "synonyms": [
+   "abate"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "wane",
+  "pos": "v",
+  "meaning": "to decrease gradually in size or strength",
+  "example": "Interest in the series waned, and by the third season few people watched.",
+  "synonyms": [
+   "ebb",
+   "dwindle"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "ebb",
+  "pos": "v, n",
+  "meaning": "to flow away; to decline",
+  "example": "His strength ebbed as the illness went on.",
+  "synonyms": [
+   "wane"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "dwindle",
+  "pos": "v",
+  "meaning": "to become steadily smaller",
+  "example": "Their savings dwindled from thousands to almost nothing.",
+  "synonyms": [
+   "wane"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "attenuate",
+  "pos": "v",
+  "meaning": "to reduce the force or effect of",
+  "example": "Thick walls attenuate the noise from the street.",
+  "synonyms": [
+   "weaken",
+   "mitigate"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "truncate",
+  "pos": "v",
+  "meaning": "to shorten by cutting off",
+  "example": "The broadcast was truncated and ended ten minutes before the final scene.",
+  "synonyms": [
+   "curtail",
+   "abridge"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "abridge",
+  "pos": "v",
+  "meaning": "to shorten a text",
+  "example": "The publisher abridged the novel from 900 pages to 300 for younger readers.",
+  "synonyms": [
+   "truncate"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "augment",
+  "pos": "v",
+  "meaning": "to increase by adding to",
+  "example": "She augmented her salary by teaching evening classes.",
+  "synonyms": [
+   "amplify"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "amplify",
+  "pos": "v",
+  "meaning": "to make larger, louder or stronger",
+  "example": "The microphone amplified her voice so that the back row could hear.",
+  "synonyms": [
+   "augment"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "proliferate",
+  "pos": "v",
+  "meaning": "to increase rapidly in number",
+  "example": "Coffee shops proliferated until there was one on every corner.",
+  "synonyms": [
+   "multiply",
+   "burgeon"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "wax",
+  "pos": "v",
+  "meaning": "to grow larger or stronger (second meaning)",
+  "example": "His enthusiasm waxed as the launch date came closer.",
+  "synonyms": [
+   "grow",
+   "swell"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "aggrandize",
+  "pos": "v",
+  "meaning": "to increase the power or importance of",
+  "example": "He used the charity mainly to aggrandize himself and put his name on every building.",
+  "synonyms": [
+   "inflate",
+   "exalt"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "disseminate",
+  "pos": "v",
+  "meaning": "to spread widely, especially information",
+  "example": "The agency disseminated the warning through radio, television and text messages.",
+  "synonyms": [
+   "propagate"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "propagate",
+  "pos": "v",
+  "meaning": "to spread; to reproduce",
+  "example": "Social media helped propagate the rumor across the country in hours.",
+  "synonyms": [
+   "disseminate"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "diffuse",
+  "pos": "v, adj",
+  "meaning": "to spread over a wide area; spread out or wordy",
+  "example": "The scent of the flowers diffused through the whole house.",
+  "synonyms": [
+   "permeate"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "inundate",
+  "pos": "v",
+  "meaning": "to flood; to overwhelm with too much",
+  "example": "The office was inundated with complaints, thousands in a single day.",
+  "synonyms": [
+   "flood",
+   "overwhelm"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "permeate",
+  "pos": "v",
+  "meaning": "to spread through every part of",
+  "example": "The smell of baking bread permeated the building.",
+  "synonyms": [
+   "diffuse",
+   "pervade"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "saturate",
+  "pos": "v",
+  "meaning": "to fill completely so that no more can be absorbed",
+  "example": "Rain saturated the ground until water pooled on the surface.",
+  "synonyms": [
+   "soak"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "satiate",
+  "pos": "v",
+  "meaning": "to satisfy fully",
+  "example": "The huge meal satiated even the hungriest of the hikers.",
+  "synonyms": [
+   "sate"
+  ],
+  "day": 18,
+  "week": 4,
+  "theme": "Increase, decrease and spread"
+ },
+ {
+  "word": "analogous",
+  "pos": "adj",
+  "meaning": "similar in a way that allows comparison",
+  "example": "A computer's memory is analogous to a human brain's, though the two work differently.",
+  "synonyms": [
+   "akin"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "homogeneous",
+  "pos": "adj",
+  "meaning": "made of the same kind throughout",
+  "example": "The village was homogeneous, as nearly everyone shared one language and religion.",
+  "synonyms": [
+   "uniform"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "heterogeneous",
+  "pos": "adj",
+  "meaning": "made of different kinds",
+  "example": "The class was heterogeneous, with students aged from sixteen to sixty.",
+  "synonyms": [
+   "disparate",
+   "eclectic"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "disparate",
+  "pos": "adj",
+  "meaning": "fundamentally different",
+  "example": "The book joins disparate subjects, from cooking to astrophysics, in one argument.",
+  "synonyms": [
+   "heterogeneous"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "discrepancy",
+  "pos": "n",
+  "meaning": "a difference between things that should match",
+  "example": "Auditors found a discrepancy between the receipts and the recorded totals.",
+  "synonyms": [
+   "inconsistency"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "incongruous",
+  "pos": "adj",
+  "meaning": "out of place; not fitting",
+  "example": "The glass tower looked incongruous among the old stone cottages.",
+  "synonyms": [
+   "out of place"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "dichotomy",
+  "pos": "n",
+  "meaning": "a division into two opposed parts",
+  "example": "The essay rejects the dichotomy between work and play and argues that the two overlap.",
+  "synonyms": [
+   "split",
+   "contrast"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "diverge",
+  "pos": "v",
+  "meaning": "to move or develop in different directions",
+  "example": "The twins' careers diverged, one becoming a surgeon and the other a sailor.",
+  "synonyms": [
+   "separate",
+   "differ"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "converge",
+  "pos": "v",
+  "meaning": "to come together from different directions",
+  "example": "Thousands of fans converged on the stadium from every part of the city.",
+  "synonyms": [
+   "meet"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "commensurate",
+  "pos": "adj",
+  "meaning": "in proportion to",
+  "example": "She wanted a salary commensurate with her twenty years of experience.",
+  "synonyms": [
+   "proportionate"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "tantamount",
+  "pos": "adj",
+  "meaning": "equal in effect to",
+  "example": "Staying silent was tantamount to admitting guilt.",
+  "synonyms": [
+   "equivalent"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "amalgamate",
+  "pos": "v",
+  "meaning": "to combine into one",
+  "example": "The two small banks amalgamated to form a single larger one.",
+  "synonyms": [
+   "merge"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "eclectic",
+  "pos": "adj",
+  "meaning": "drawn from many different sources",
+  "example": "Her eclectic taste in music ranged from opera to hip-hop.",
+  "synonyms": [
+   "heterogeneous"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "dissonance",
+  "pos": "n",
+  "meaning": "lack of harmony or agreement",
+  "example": "There was a dissonance between his kind words and his cold actions.",
+  "synonyms": [
+   "discord"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "akin",
+  "pos": "adj",
+  "meaning": "similar or related",
+  "example": "Her feeling was akin to homesickness, though she had never lived there.",
+  "synonyms": [
+   "analogous"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "paradox",
+  "pos": "n",
+  "meaning": "a statement that seems contradictory but may be true",
+  "example": "It is a paradox that saving more can make a whole economy poorer.",
+  "synonyms": [
+   "contradiction"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "antithesis",
+  "pos": "n",
+  "meaning": "the direct opposite",
+  "example": "His quiet, careful style was the antithesis of his brother's loud showmanship.",
+  "synonyms": [
+   "opposite"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "juxtapose",
+  "pos": "v",
+  "meaning": "to place side by side for contrast",
+  "example": "The exhibit juxtaposes photos of the street in 1900 and today.",
+  "synonyms": [
+   "set side by side"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "conflate",
+  "pos": "v",
+  "meaning": "to mix two things into one, often wrongly",
+  "example": "The article conflates wealth with happiness, as if the two were the same.",
+  "synonyms": [
+   "confuse",
+   "amalgamate"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "disjointed",
+  "pos": "adj",
+  "meaning": "lacking order or connection",
+  "example": "His disjointed speech jumped between topics with no clear thread.",
+  "synonyms": [
+   "incoherent"
+  ],
+  "day": 19,
+  "week": 4,
+  "theme": "Similar and different"
+ },
+ {
+  "word": "elated",
+  "pos": "adj",
+  "meaning": "extremely happy",
+  "example": "She was elated when the letter arrived saying she had won the scholarship.",
+  "synonyms": [
+   "jubilant"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "jubilant",
+  "pos": "adj",
+  "meaning": "joyful because of success",
+  "example": "Jubilant fans danced in the streets after the final whistle.",
+  "synonyms": [
+   "elated"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "exuberant",
+  "pos": "adj",
+  "meaning": "full of energy and excitement",
+  "example": "The exuberant puppy leapt at every visitor.",
+  "synonyms": [
+   "ebullient"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "ebullient",
+  "pos": "adj",
+  "meaning": "cheerful and bubbling with energy",
+  "example": "Ebullient after the good news, he hugged everyone in the office.",
+  "synonyms": [
+   "exuberant"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "sanguine",
+  "pos": "adj",
+  "meaning": "optimistic, especially in a hard situation",
+  "example": "Despite falling sales, the director remained sanguine about next year.",
+  "synonyms": [
+   "optimistic"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "morose",
+  "pos": "adj",
+  "meaning": "gloomy and bad-tempered",
+  "example": "Morose since losing his job, he sat in silence and refused to see friends.",
+  "synonyms": [
+   "sullen"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "melancholy",
+  "pos": "adj, n",
+  "meaning": "deeply and quietly sad; such sadness",
+  "example": "The melancholy music matched the gray, rainy afternoon.",
+  "synonyms": [
+   "somber"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "despondent",
+  "pos": "adj",
+  "meaning": "having lost hope",
+  "example": "Despondent after failing a third time, she considered giving up the course.",
+  "synonyms": [
+   "dejected"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "somber",
+  "pos": "adj",
+  "meaning": "dark and serious in mood",
+  "example": "The mood at the funeral was somber, and no one spoke above a whisper.",
+  "synonyms": [
+   "melancholy"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "sullen",
+  "pos": "adj",
+  "meaning": "silently bad-tempered",
+  "example": "The sullen boy stared at the floor and refused to answer.",
+  "synonyms": [
+   "morose"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "placid",
+  "pos": "adj",
+  "meaning": "calm and not easily upset",
+  "example": "The placid cow kept chewing while children climbed on its back.",
+  "synonyms": [
+   "serene"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "serene",
+  "pos": "adj",
+  "meaning": "peaceful and untroubled",
+  "example": "She looked serene as she sat by the lake with her eyes closed.",
+  "synonyms": [
+   "placid"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "equanimity",
+  "pos": "n",
+  "meaning": "calmness under stress",
+  "example": "He accepted the bad news with equanimity, neither shouting nor complaining.",
+  "synonyms": [
+   "composure"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "phlegmatic",
+  "pos": "adj",
+  "meaning": "not easily excited or upset",
+  "example": "The phlegmatic goalkeeper showed no emotion even after saving the penalty.",
+  "synonyms": [
+   "stoic",
+   "imperturbable"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "stoic",
+  "pos": "adj",
+  "meaning": "enduring pain without complaint",
+  "example": "Stoic through the long treatment, she never once complained.",
+  "synonyms": [
+   "phlegmatic"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "imperturbable",
+  "pos": "adj",
+  "meaning": "impossible to upset or disturb",
+  "example": "The imperturbable pilot spoke as calmly during the storm as on a clear day.",
+  "synonyms": [
+   "phlegmatic"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "irascible",
+  "pos": "adj",
+  "meaning": "easily made angry",
+  "example": "The irascible chef threw pans whenever an order came back.",
+  "synonyms": [
+   "cantankerous"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "petulant",
+  "pos": "adj",
+  "meaning": "childishly sulky or bad-tempered",
+  "example": "In a petulant mood, he slammed the door because he had lost the game.",
+  "synonyms": [
+   "querulous",
+   "peevish"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "cantankerous",
+  "pos": "adj",
+  "meaning": "bad-tempered and argumentative",
+  "example": "The cantankerous old man argued with every neighbor on the street.",
+  "synonyms": [
+   "irascible"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "querulous",
+  "pos": "adj",
+  "meaning": "complaining in a whining way",
+  "example": "The querulous passenger complained about the seat, the food and the temperature.",
+  "synonyms": [
+   "petulant"
+  ],
+  "day": 20,
+  "week": 4,
+  "theme": "Moods: cheerful, gloomy, calm and irritable"
+ },
+ {
+  "word": "penchant",
+  "pos": "n",
+  "meaning": "a strong liking",
+  "example": "He has a penchant for spicy food and adds chili to everything.",
+  "synonyms": [
+   "predilection"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "predilection",
+  "pos": "n",
+  "meaning": "a preference for something",
+  "example": "Her predilection for old films meant she rarely watched anything made after 1960.",
+  "synonyms": [
+   "penchant"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "proclivity",
+  "pos": "n",
+  "meaning": "a natural tendency, often toward something bad",
+  "example": "His proclivity for gambling cost him two houses.",
+  "synonyms": [
+   "propensity"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "propensity",
+  "pos": "n",
+  "meaning": "a natural tendency to behave in a certain way",
+  "example": "Cats have a propensity to sleep in warm places.",
+  "synonyms": [
+   "proclivity"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "affinity",
+  "pos": "n",
+  "meaning": "a natural liking or similarity",
+  "example": "She felt an affinity with the sea, having grown up beside it.",
+  "synonyms": [
+   "rapport",
+   "kinship"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "partisan",
+  "pos": "adj, n",
+  "meaning": "strongly biased toward one side; a supporter",
+  "example": "The partisan crowd booed every decision that went against the home team.",
+  "synonyms": [
+   "biased"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "enamored",
+  "pos": "adj",
+  "meaning": "filled with love or liking for",
+  "example": "Enamored of the city, he extended his visit from a week to a year.",
+  "synonyms": [
+   "captivated"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "relish",
+  "pos": "v, n",
+  "meaning": "to enjoy greatly; great enjoyment",
+  "example": "She relished the challenge and asked for an even harder problem.",
+  "synonyms": [
+   "savor"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "antipathy",
+  "pos": "n",
+  "meaning": "a strong feeling of dislike",
+  "example": "His antipathy toward meetings was so strong that he scheduled none for a year.",
+  "synonyms": [
+   "aversion",
+   "animosity"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "aversion",
+  "pos": "n",
+  "meaning": "a strong dislike that makes one avoid something",
+  "example": "Her aversion to flying meant she always took the train.",
+  "synonyms": [
+   "antipathy"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "loath",
+  "pos": "adj",
+  "meaning": "unwilling; reluctant (not loathe)",
+  "example": "He was loath to admit his mistake and delayed for days before confessing.",
+  "synonyms": [
+   "reluctant"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "loathe",
+  "pos": "v",
+  "meaning": "to hate intensely",
+  "example": "She loathes dishonesty and ended the friendship over a single lie.",
+  "synonyms": [
+   "abhor"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "abhor",
+  "pos": "v",
+  "meaning": "to regard with disgust and hatred",
+  "example": "A lifelong pacifist, he abhors violence of every kind.",
+  "synonyms": [
+   "loathe"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "repugnant",
+  "pos": "adj",
+  "meaning": "extremely distasteful; offensive",
+  "example": "The idea of eating insects was repugnant to him, and he pushed the plate away.",
+  "synonyms": [
+   "odious"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "odious",
+  "pos": "adj",
+  "meaning": "deserving hatred; very unpleasant",
+  "example": "Cleaning the drains was an odious task that everyone tried to avoid.",
+  "synonyms": [
+   "repugnant"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "anathema",
+  "pos": "n",
+  "meaning": "something intensely disliked",
+  "example": "Raising taxes is anathema to the party, which has opposed every increase.",
+  "synonyms": [
+   "abomination"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "misanthrope",
+  "pos": "n",
+  "meaning": "a person who dislikes people in general",
+  "example": "A misanthrope, he lived alone on the hill and chased away every visitor.",
+  "synonyms": [
+   "hater of mankind"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "indifferent",
+  "pos": "adj",
+  "meaning": "having no interest or preference",
+  "example": "Indifferent to fashion, she wore the same gray coat for ten years.",
+  "synonyms": [
+   "apathetic"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "inured",
+  "pos": "adj",
+  "meaning": "used to something unpleasant",
+  "example": "Nurses become inured to the sight of blood after a few months on the ward.",
+  "synonyms": [
+   "hardened"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "impervious",
+  "pos": "adj",
+  "meaning": "not affected by; not letting anything through",
+  "example": "Impervious to criticism, he carried on exactly as before.",
+  "synonyms": [
+   "immune"
+  ],
+  "day": 21,
+  "week": 5,
+  "theme": "Liking, disliking and tendencies"
+ },
+ {
+  "word": "probity",
+  "pos": "n",
+  "meaning": "complete honesty and integrity",
+  "example": "A judge of unquestioned probity, she had never accepted even a small gift.",
+  "synonyms": [
+   "rectitude"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "rectitude",
+  "pos": "n",
+  "meaning": "morally correct behavior",
+  "example": "His moral rectitude was such that he returned the extra change every time.",
+  "synonyms": [
+   "probity"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "altruistic",
+  "pos": "adj",
+  "meaning": "unselfishly concerned for others",
+  "example": "In an altruistic act, the stranger donated a kidney to a child he had never met.",
+  "synonyms": [
+   "benevolent"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "benevolent",
+  "pos": "adj",
+  "meaning": "kind and wishing to do good",
+  "example": "The benevolent landlord lowered rents when his tenants lost their jobs.",
+  "synonyms": [
+   "altruistic"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "benign",
+  "pos": "adj",
+  "meaning": "gentle; harmless",
+  "example": "The tumor proved benign, so no further treatment was needed.",
+  "synonyms": [
+   "innocuous"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "nefarious",
+  "pos": "adj",
+  "meaning": "wicked or criminal",
+  "example": "Police uncovered a nefarious scheme to poison the city's water supply.",
+  "synonyms": [
+   "wicked"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "depraved",
+  "pos": "adj",
+  "meaning": "morally corrupt",
+  "example": "The depraved ruler tortured prisoners for his own amusement.",
+  "synonyms": [
+   "corrupt",
+   "wicked"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "venal",
+  "pos": "adj",
+  "meaning": "willing to be bribed; corrupt (not venial)",
+  "example": "The venal inspector approved the unsafe building in exchange for cash.",
+  "synonyms": [
+   "corrupt"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "turpitude",
+  "pos": "n",
+  "meaning": "wickedness; depravity",
+  "example": "He was dismissed for moral turpitude after the fraud came to light.",
+  "synonyms": [
+   "depravity"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "perfidious",
+  "pos": "adj",
+  "meaning": "disloyal; treacherous",
+  "example": "The perfidious adviser sold the king's plans to the enemy.",
+  "synonyms": [
+   "treacherous"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "malevolent",
+  "pos": "adj",
+  "meaning": "wishing harm to others",
+  "example": "With a malevolent grin, the villain watched the bridge collapse.",
+  "synonyms": [
+   "malicious"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "pernicious",
+  "pos": "adj",
+  "meaning": "harmful in a gradual or hidden way",
+  "example": "The pernicious habit of skipping sleep slowly ruined his health.",
+  "synonyms": [
+   "insidious",
+   "deleterious"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "insidious",
+  "pos": "adj",
+  "meaning": "spreading harm slowly and unnoticed",
+  "example": "The disease is insidious and shows no symptoms until it is far advanced.",
+  "synonyms": [
+   "pernicious"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "egregious",
+  "pos": "adj",
+  "meaning": "outstandingly bad",
+  "example": "It was an egregious error, the kind no trained pilot should ever make.",
+  "synonyms": [
+   "flagrant"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "reprehensible",
+  "pos": "adj",
+  "meaning": "deserving strong blame",
+  "example": "Stealing from a charity is reprehensible, whatever the thief's excuse.",
+  "synonyms": [
+   "deplorable"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "culpable",
+  "pos": "adj",
+  "meaning": "deserving blame; guilty",
+  "example": "The court found the driver culpable because he had ignored a red light.",
+  "synonyms": [
+   "blameworthy"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "exonerate",
+  "pos": "v",
+  "meaning": "to clear from blame",
+  "example": "The video exonerated the suspect by showing that he was elsewhere at the time.",
+  "synonyms": [
+   "exculpate",
+   "absolve"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "exculpate",
+  "pos": "v",
+  "meaning": "to show or declare free of guilt",
+  "example": "The new testimony exculpated the nurse by proving she had followed every rule.",
+  "synonyms": [
+   "exonerate",
+   "vindicate"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "absolve",
+  "pos": "v",
+  "meaning": "to free from guilt or responsibility",
+  "example": "The report absolved the pilot and blamed the crash on a faulty part.",
+  "synonyms": [
+   "exonerate"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "contrite",
+  "pos": "adj",
+  "meaning": "feeling sincere regret for a wrong",
+  "example": "Clearly contrite, he apologized in tears and offered to pay for the damage.",
+  "synonyms": [
+   "remorseful",
+   "penitent"
+  ],
+  "day": 22,
+  "week": 5,
+  "theme": "Good and bad character, guilt and forgiveness"
+ },
+ {
+  "word": "obsequious",
+  "pos": "adj",
+  "meaning": "too eager to please or obey",
+  "example": "The obsequious assistant laughed at every joke his boss made.",
+  "synonyms": [
+   "servile",
+   "fawning"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "servile",
+  "pos": "adj",
+  "meaning": "behaving like a slave; too willing to serve",
+  "example": "His servile bowing and scraping embarrassed the other guests.",
+  "synonyms": [
+   "obsequious",
+   "subservient"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "fawning",
+  "pos": "adj",
+  "meaning": "seeking favor by excessive flattery",
+  "example": "Fawning courtiers told the king that his terrible poem was a work of genius.",
+  "synonyms": [
+   "obsequious"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "sycophant",
+  "pos": "n",
+  "meaning": "a person who flatters the powerful for gain",
+  "example": "Surrounded by sycophants, the director never heard an honest opinion.",
+  "synonyms": [
+   "flatterer",
+   "toady"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "ingratiate",
+  "pos": "v",
+  "meaning": "to gain favor by deliberate effort",
+  "example": "He tried to ingratiate himself with the new manager by bringing her coffee daily.",
+  "synonyms": [
+   "curry favor"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "cajole",
+  "pos": "v",
+  "meaning": "to persuade by flattery or gentle urging",
+  "example": "She cajoled her father into lending her the car with compliments and promises.",
+  "synonyms": [
+   "coax"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "coax",
+  "pos": "v",
+  "meaning": "to persuade gently and patiently",
+  "example": "He coaxed the frightened cat out from under the bed with a piece of fish.",
+  "synonyms": [
+   "cajole"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "subservient",
+  "pos": "adj",
+  "meaning": "too ready to obey; less important",
+  "example": "She refused to play a subservient role and demanded an equal vote.",
+  "synonyms": [
+   "servile"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "iconoclast",
+  "pos": "n",
+  "meaning": "a person who attacks accepted beliefs",
+  "example": "An iconoclast, the critic mocked the very writers that everyone else admired.",
+  "synonyms": [
+   "maverick"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "maverick",
+  "pos": "n",
+  "meaning": "an independent person who does not follow the group",
+  "example": "A maverick in her party, she voted against its leaders whenever she disagreed.",
+  "synonyms": [
+   "iconoclast"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "heterodox",
+  "pos": "adj",
+  "meaning": "not following accepted beliefs",
+  "example": "His heterodox views on medicine got him expelled from the society of doctors.",
+  "synonyms": [
+   "unorthodox"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "renegade",
+  "pos": "n",
+  "meaning": "a person who deserts a group or cause",
+  "example": "The renegade officer left the army and joined the rebels.",
+  "synonyms": [
+   "deserter",
+   "traitor"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "eccentric",
+  "pos": "adj, n",
+  "meaning": "unconventional and slightly strange",
+  "example": "The eccentric professor wore slippers to lectures and kept a parrot in his office.",
+  "synonyms": [
+   "idiosyncratic"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "aberrant",
+  "pos": "adj",
+  "meaning": "departing from the normal or accepted",
+  "example": "The aberrant result, ten times higher than the rest, was traced to a faulty sensor.",
+  "synonyms": [
+   "anomalous"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "insubordinate",
+  "pos": "adj",
+  "meaning": "refusing to obey orders",
+  "example": "The insubordinate soldier was punished for ignoring a direct command.",
+  "synonyms": [
+   "recalcitrant"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "insolent",
+  "pos": "adj",
+  "meaning": "rudely disrespectful",
+  "example": "The insolent pupil rolled his eyes and told the teacher she was boring.",
+  "synonyms": [
+   "impudent"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "impudent",
+  "pos": "adj",
+  "meaning": "cheeky; not showing due respect",
+  "example": "It was impudent of the trainee to tell the surgeon how to hold the knife.",
+  "synonyms": [
+   "insolent"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "irreverent",
+  "pos": "adj",
+  "meaning": "lacking respect for things usually taken seriously",
+  "example": "The comedian's irreverent jokes about the church shocked older viewers.",
+  "synonyms": [
+   "flippant"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "flippant",
+  "pos": "adj",
+  "meaning": "not serious enough about a serious matter",
+  "example": "His flippant reply that nobody cared angered the grieving family.",
+  "synonyms": [
+   "irreverent"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "flout",
+  "pos": "v",
+  "meaning": "to openly disobey a rule (not flaunt)",
+  "example": "Drivers who flout the speed limit will lose their licenses.",
+  "synonyms": [
+   "defy"
+  ],
+  "day": 23,
+  "week": 5,
+  "theme": "Flattery and obedience vs. rebellion and disrespect"
+ },
+ {
+  "word": "clandestine",
+  "pos": "adj",
+  "meaning": "kept secret, often because illegal",
+  "example": "The lovers held clandestine meetings in a cafe far from their homes.",
+  "synonyms": [
+   "covert",
+   "surreptitious"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "covert",
+  "pos": "adj",
+  "meaning": "secret; not openly shown",
+  "example": "The agency ran a covert operation that even the president did not know about.",
+  "synonyms": [
+   "clandestine"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "surreptitious",
+  "pos": "adj",
+  "meaning": "done secretly to avoid notice",
+  "example": "He took a surreptitious look at his phone under the table during dinner.",
+  "synonyms": [
+   "furtive"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "furtive",
+  "pos": "adj",
+  "meaning": "secretive in a way that suggests guilt",
+  "example": "With a furtive glance over his shoulder, the boy slipped the sweets into his pocket.",
+  "synonyms": [
+   "surreptitious"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "latent",
+  "pos": "adj",
+  "meaning": "present but not yet active or visible",
+  "example": "The coach saw latent talent in the shy girl, which emerged a year later.",
+  "synonyms": [
+   "dormant"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "dormant",
+  "pos": "adj",
+  "meaning": "temporarily inactive",
+  "example": "The volcano has been dormant for 300 years but could erupt again.",
+  "synonyms": [
+   "latent"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "tacit",
+  "pos": "adj",
+  "meaning": "understood without being stated",
+  "example": "Her silence was taken as tacit approval of the plan.",
+  "synonyms": [
+   "implicit"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "implicit",
+  "pos": "adj",
+  "meaning": "suggested but not directly said",
+  "example": "There was an implicit threat in his remark that accidents can happen.",
+  "synonyms": [
+   "tacit"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "overt",
+  "pos": "adj",
+  "meaning": "done openly; not hidden",
+  "example": "There was no overt hostility, only cold politeness.",
+  "synonyms": [
+   "open",
+   "plain"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "conspicuous",
+  "pos": "adj",
+  "meaning": "easy to see; attracting attention",
+  "example": "Her bright red coat made her conspicuous in the crowd of gray suits.",
+  "synonyms": [
+   "salient"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "salient",
+  "pos": "adj",
+  "meaning": "most noticeable or important",
+  "example": "The salient point of the report is that costs have doubled.",
+  "synonyms": [
+   "conspicuous"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "blatant",
+  "pos": "adj",
+  "meaning": "done openly and without shame",
+  "example": "It was a blatant foul, committed right in front of the referee.",
+  "synonyms": [
+   "flagrant",
+   "patent"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "flagrant",
+  "pos": "adj",
+  "meaning": "shockingly obvious and offensive",
+  "example": "Parking across the hospital entrance was a flagrant breach of the rules.",
+  "synonyms": [
+   "blatant",
+   "egregious"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "divulge",
+  "pos": "v",
+  "meaning": "to reveal private or secret information",
+  "example": "The journalist refused to divulge the name of her source.",
+  "synonyms": [
+   "disclose"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "allude",
+  "pos": "v",
+  "meaning": "to refer to indirectly",
+  "example": "He alluded to past troubles but gave no details.",
+  "synonyms": [
+   "intimate"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "insinuate",
+  "pos": "v",
+  "meaning": "to suggest something unpleasant indirectly",
+  "example": "She insinuated that he had cheated, without ever saying it outright.",
+  "synonyms": [
+   "intimate"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "evince",
+  "pos": "v",
+  "meaning": "to show clearly",
+  "example": "The pupils evinced no interest in the lesson and stared out of the window.",
+  "synonyms": [
+   "manifest"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "elicit",
+  "pos": "v",
+  "meaning": "to draw out a response (not illicit)",
+  "example": "The joke elicited only a few polite smiles.",
+  "synonyms": [
+   "evoke"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "ostensible",
+  "pos": "adj",
+  "meaning": "stated or appearing to be true, but perhaps not",
+  "example": "The ostensible reason for his visit was business, but he really came to see her.",
+  "synonyms": [
+   "purported"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "purported",
+  "pos": "adj",
+  "meaning": "claimed, but not proven",
+  "example": "The purported cure was never tested in any trial.",
+  "synonyms": [
+   "ostensible"
+  ],
+  "day": 24,
+  "week": 5,
+  "theme": "Hidden, obvious, hinted and revealed"
+ },
+ {
+  "word": "engender",
+  "pos": "v",
+  "meaning": "to cause or give rise to",
+  "example": "The unfair ruling engendered anger across the country.",
+  "synonyms": [
+   "produce",
+   "breed"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "foment",
+  "pos": "v",
+  "meaning": "to stir up trouble",
+  "example": "Agents were sent to foment unrest among the factory workers.",
+  "synonyms": [
+   "incite",
+   "instigate"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "incite",
+  "pos": "v",
+  "meaning": "to encourage violent or unlawful behavior",
+  "example": "The speaker was arrested for inciting the crowd to burn the building.",
+  "synonyms": [
+   "foment"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "instigate",
+  "pos": "v",
+  "meaning": "to start or provoke an action",
+  "example": "The union instigated the strike after talks failed.",
+  "synonyms": [
+   "incite"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "goad",
+  "pos": "v",
+  "meaning": "to provoke into action",
+  "example": "His friends goaded him into jumping by calling him a coward.",
+  "synonyms": [
+   "spur"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "spur",
+  "pos": "v, n",
+  "meaning": "to encourage; an incentive",
+  "example": "Tax cuts spurred investment, and new factories opened within months.",
+  "synonyms": [
+   "galvanize"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "precipitate",
+  "pos": "v, adj",
+  "meaning": "to cause to happen suddenly; hasty",
+  "example": "The assassination precipitated a war that no one had planned.",
+  "synonyms": [
+   "trigger"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "catalyst",
+  "pos": "n",
+  "meaning": "something that causes or speeds up change",
+  "example": "The scandal was the catalyst for reform and forced parliament to act at last.",
+  "synonyms": [
+   "impetus"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "impetus",
+  "pos": "n",
+  "meaning": "a force that makes something happen faster",
+  "example": "The prize money gave fresh impetus to research on batteries.",
+  "synonyms": [
+   "catalyst",
+   "spur"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "harbinger",
+  "pos": "n",
+  "meaning": "a sign that something is coming",
+  "example": "The first swallow is a harbinger of spring.",
+  "synonyms": [
+   "precursor"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "precursor",
+  "pos": "n",
+  "meaning": "something that comes before and leads to another",
+  "example": "The telegraph was a precursor of the telephone.",
+  "synonyms": [
+   "harbinger"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "portend",
+  "pos": "v",
+  "meaning": "to be a warning sign of",
+  "example": "Dark clouds portend a storm.",
+  "synonyms": [
+   "presage",
+   "augur"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "presage",
+  "pos": "v",
+  "meaning": "to be a sign of a future event",
+  "example": "The sharp fall in orders presaged a difficult year for the factory.",
+  "synonyms": [
+   "portend"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "augur",
+  "pos": "v",
+  "meaning": "to be a sign of a good or bad outcome",
+  "example": "The team's strong start augurs well for the rest of the season.",
+  "synonyms": [
+   "portend",
+   "presage"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "ominous",
+  "pos": "adj",
+  "meaning": "suggesting that something bad will happen",
+  "example": "An ominous silence fell just before the building shook.",
+  "synonyms": [
+   "threatening"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "auspicious",
+  "pos": "adj",
+  "meaning": "suggesting future success",
+  "example": "Sunshine on the opening day was an auspicious start to the festival.",
+  "synonyms": [
+   "propitious"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "propitious",
+  "pos": "adj",
+  "meaning": "favorable; likely to bring success",
+  "example": "With prices low, it was a propitious moment to buy a house.",
+  "synonyms": [
+   "auspicious"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "prescient",
+  "pos": "adj",
+  "meaning": "knowing or predicting events before they happen",
+  "example": "Her prescient warning about the bank, made two years before it failed, was ignored.",
+  "synonyms": [
+   "far-sighted"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "culminate",
+  "pos": "v",
+  "meaning": "to reach a final or highest point",
+  "example": "Months of protest culminated in the president's resignation.",
+  "synonyms": [
+   "climax"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "advent",
+  "pos": "n",
+  "meaning": "the arrival of something important",
+  "example": "The advent of the internet changed how people shop, learn and talk.",
+  "synonyms": [
+   "arrival"
+  ],
+  "day": 25,
+  "week": 5,
+  "theme": "Causing, starting and predicting"
+ },
+ {
+  "word": "innocuous",
+  "pos": "adj",
+  "meaning": "harmless; not offensive",
+  "example": "The spider looks frightening but is innocuous and cannot bite humans.",
+  "synonyms": [
+   "benign"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "salubrious",
+  "pos": "adj",
+  "meaning": "good for health",
+  "example": "He moved to the mountains for the salubrious air.",
+  "synonyms": [
+   "salutary"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "salutary",
+  "pos": "adj",
+  "meaning": "producing a good effect, often through something unpleasant",
+  "example": "Failing the first test was a salutary lesson that taught her to prepare.",
+  "synonyms": [
+   "beneficial"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "deleterious",
+  "pos": "adj",
+  "meaning": "harmful",
+  "example": "Smoking has a deleterious effect on the lungs.",
+  "synonyms": [
+   "detrimental",
+   "pernicious"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "detrimental",
+  "pos": "adj",
+  "meaning": "causing damage",
+  "example": "Too much screen time is detrimental to children's sleep.",
+  "synonyms": [
+   "deleterious"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "noxious",
+  "pos": "adj",
+  "meaning": "poisonous or very unpleasant",
+  "example": "Noxious fumes from the factory forced residents to close their windows.",
+  "synonyms": [
+   "toxic"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "virulent",
+  "pos": "adj",
+  "meaning": "extremely harmful or infectious; bitterly hostile",
+  "example": "The virulent strain spread to ten countries in a month.",
+  "synonyms": [
+   "deadly"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "precarious",
+  "pos": "adj",
+  "meaning": "not safe or secure; likely to fall or fail",
+  "example": "The ladder stood in a precarious position on the edge of the roof.",
+  "synonyms": [
+   "unstable"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "arduous",
+  "pos": "adj",
+  "meaning": "needing great effort",
+  "example": "The arduous climb took nine hours and left them exhausted.",
+  "synonyms": [
+   "onerous",
+   "laborious"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "onerous",
+  "pos": "adj",
+  "meaning": "heavy and hard to bear",
+  "example": "The onerous duty of caring for three sick relatives left her no free time.",
+  "synonyms": [
+   "arduous",
+   "burdensome"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "laborious",
+  "pos": "adj",
+  "meaning": "needing much time and effort",
+  "example": "Copying the book by hand was a laborious task that took a year.",
+  "synonyms": [
+   "arduous"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "cumbersome",
+  "pos": "adj",
+  "meaning": "heavy, awkward or slow to use",
+  "example": "The cumbersome process required six forms and four signatures.",
+  "synonyms": [
+   "unwieldy"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "formidable",
+  "pos": "adj",
+  "meaning": "causing fear or respect by being powerful or difficult",
+  "example": "She faced a formidable opponent who had not lost in five years.",
+  "synonyms": [
+   "daunting"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "futile",
+  "pos": "adj",
+  "meaning": "having no chance of success",
+  "example": "It was futile to argue, because the decision had already been made.",
+  "synonyms": [
+   "pointless"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "viable",
+  "pos": "adj",
+  "meaning": "able to work or survive",
+  "example": "Without new investors, the business is no longer viable.",
+  "synonyms": [
+   "feasible"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "feasible",
+  "pos": "adj",
+  "meaning": "possible to do",
+  "example": "With only two days left, finishing the report was barely feasible.",
+  "synonyms": [
+   "viable"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "efficacy",
+  "pos": "n",
+  "meaning": "the power to produce the intended result",
+  "example": "Trials confirmed the efficacy of the vaccine, which prevented nine cases in ten.",
+  "synonyms": [
+   "effectiveness"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "pristine",
+  "pos": "adj",
+  "meaning": "in its original, unspoiled state",
+  "example": "The beach was pristine, with no litter and no footprints.",
+  "synonyms": [
+   "unspoiled"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "adulterate",
+  "pos": "v",
+  "meaning": "to make impure by adding something inferior",
+  "example": "The seller adulterated the milk with water to increase his profit.",
+  "synonyms": [
+   "contaminate",
+   "sully"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "sully",
+  "pos": "v",
+  "meaning": "to damage the purity or reputation of",
+  "example": "One bribe was enough to sully a reputation built over thirty years.",
+  "synonyms": [
+   "tarnish"
+  ],
+  "day": 26,
+  "week": 6,
+  "theme": "Harmless, harmful, hard and possible"
+ },
+ {
+  "word": "intrepid",
+  "pos": "adj",
+  "meaning": "fearless and adventurous",
+  "example": "The intrepid explorer crossed the desert alone on foot.",
+  "synonyms": [
+   "dauntless"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "audacious",
+  "pos": "adj",
+  "meaning": "boldly daring; also disrespectfully bold",
+  "example": "In an audacious move, the tiny firm offered to buy its largest rival.",
+  "synonyms": [
+   "brazen",
+   "bold"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "dauntless",
+  "pos": "adj",
+  "meaning": "showing no fear",
+  "example": "Dauntless firefighters ran into the burning building again and again.",
+  "synonyms": [
+   "intrepid"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "brazen",
+  "pos": "adj",
+  "meaning": "bold and without shame",
+  "example": "The brazen thief walked out of the shop carrying the television in daylight.",
+  "synonyms": [
+   "audacious"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "temerity",
+  "pos": "n",
+  "meaning": "reckless boldness",
+  "example": "He had the temerity to ask for a raise on his second day at work.",
+  "synonyms": [
+   "audacity"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "impetuous",
+  "pos": "adj",
+  "meaning": "acting quickly without thinking",
+  "example": "Her impetuous decision to quit, made in a moment of anger, was soon regretted.",
+  "synonyms": [
+   "rash"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "foolhardy",
+  "pos": "adj",
+  "meaning": "taking stupid risks",
+  "example": "It was foolhardy to sail in such a storm without life jackets.",
+  "synonyms": [
+   "reckless",
+   "impetuous"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "fortitude",
+  "pos": "n",
+  "meaning": "courage in facing pain or hardship",
+  "example": "She bore the long illness with fortitude and never lost her sense of humor.",
+  "synonyms": [
+   "mettle"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "mettle",
+  "pos": "n",
+  "meaning": "courage and strength of character",
+  "example": "The final round tested the mettle of even the most experienced players.",
+  "synonyms": [
+   "fortitude"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "timorous",
+  "pos": "adj",
+  "meaning": "nervous and easily frightened",
+  "example": "The timorous child hid behind her mother whenever a stranger spoke.",
+  "synonyms": [
+   "timid"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "craven",
+  "pos": "adj",
+  "meaning": "shamefully cowardly",
+  "example": "The craven captain left the sinking ship before his passengers.",
+  "synonyms": [
+   "pusillanimous"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "pusillanimous",
+  "pos": "adj",
+  "meaning": "lacking courage; timid",
+  "example": "Too pusillanimous to confront the bully, the council simply looked away.",
+  "synonyms": [
+   "craven"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "trepidation",
+  "pos": "n",
+  "meaning": "fear about something that may happen",
+  "example": "She opened the exam results with trepidation, her hands shaking.",
+  "synonyms": [
+   "dread"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "apprehensive",
+  "pos": "adj",
+  "meaning": "worried about what might happen",
+  "example": "He felt apprehensive before the surgery and could not sleep.",
+  "synonyms": [
+   "anxious"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "wary",
+  "pos": "adj",
+  "meaning": "cautious about possible danger",
+  "example": "Wary of strangers, the dog kept its distance and watched.",
+  "synonyms": [
+   "chary",
+   "circumspect"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "circumspect",
+  "pos": "adj",
+  "meaning": "careful to consider all risks before acting",
+  "example": "A circumspect investor, she studied the company for months before buying.",
+  "synonyms": [
+   "prudent",
+   "wary"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "chary",
+  "pos": "adj",
+  "meaning": "cautiously reluctant",
+  "example": "Once cheated, he was chary of lending money to anyone again.",
+  "synonyms": [
+   "wary"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "daunt",
+  "pos": "v",
+  "meaning": "to make someone feel afraid or less confident",
+  "example": "The size of the task did not daunt her, and she began at once.",
+  "synonyms": [
+   "cow"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "cow",
+  "pos": "v",
+  "meaning": "to frighten into obedience (second meaning)",
+  "example": "The protesters refused to be cowed by threats of arrest.",
+  "synonyms": [
+   "daunt"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "qualm",
+  "pos": "n",
+  "meaning": "an uneasy feeling of doubt about an action",
+  "example": "He had no qualms about lying if it helped him win.",
+  "synonyms": [
+   "misgiving"
+  ],
+  "day": 27,
+  "week": 6,
+  "theme": "Courage, rashness, fear and caution"
+ },
+ {
+  "word": "ornate",
+  "pos": "adj",
+  "meaning": "heavily decorated",
+  "example": "The ornate ceiling was covered with gold leaves and painted angels.",
+  "synonyms": [
+   "florid"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "florid",
+  "pos": "adj",
+  "meaning": "excessively decorated; also red-faced",
+  "example": "His florid prose buried every simple idea under a pile of adjectives.",
+  "synonyms": [
+   "ornate"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "flamboyant",
+  "pos": "adj",
+  "meaning": "showy and confident in style",
+  "example": "The flamboyant singer wore a feathered cape and silver boots.",
+  "synonyms": [
+   "ostentatious"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "ostentatious",
+  "pos": "adj",
+  "meaning": "showing off wealth to impress",
+  "example": "The ostentatious host pointed out the price of every painting on his walls.",
+  "synonyms": [
+   "flamboyant",
+   "showy"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "garish",
+  "pos": "adj",
+  "meaning": "unpleasantly bright and showy",
+  "example": "The garish orange and pink wallpaper gave visitors a headache.",
+  "synonyms": [
+   "gaudy"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "gaudy",
+  "pos": "adj",
+  "meaning": "too bright and showy; tasteless",
+  "example": "She wore gaudy plastic jewelry in six clashing colors.",
+  "synonyms": [
+   "garish",
+   "tawdry"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "tawdry",
+  "pos": "adj",
+  "meaning": "showy but cheap and of poor quality",
+  "example": "The stall sold tawdry souvenirs that broke within a day.",
+  "synonyms": [
+   "gaudy"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "aesthetic",
+  "pos": "adj, n",
+  "meaning": "concerned with beauty; a sense of beauty",
+  "example": "The bridge was chosen for aesthetic reasons, since it was the most beautiful design.",
+  "synonyms": [
+   "artistic"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "urbane",
+  "pos": "adj",
+  "meaning": "polished and confident in social situations",
+  "example": "The urbane diplomat charmed guests in four languages.",
+  "synonyms": [
+   "suave"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "suave",
+  "pos": "adj",
+  "meaning": "smooth, charming and confident",
+  "example": "The suave salesman put every customer at ease with a smile and a compliment.",
+  "synonyms": [
+   "urbane"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "decorous",
+  "pos": "adj",
+  "meaning": "polite and proper in behavior",
+  "example": "The guests remained decorous, speaking quietly and waiting their turn.",
+  "synonyms": [
+   "proper",
+   "seemly"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "propriety",
+  "pos": "n",
+  "meaning": "correct and socially accepted behavior",
+  "example": "She questioned the propriety of a judge dining with the accused.",
+  "synonyms": [
+   "decorum"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "gauche",
+  "pos": "adj",
+  "meaning": "socially awkward; lacking grace",
+  "example": "It was gauche of him to ask the host how much the house had cost.",
+  "synonyms": [
+   "awkward",
+   "tactless"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "boorish",
+  "pos": "adj",
+  "meaning": "rude and insensitive",
+  "example": "His boorish habit of interrupting everyone ruined the dinner.",
+  "synonyms": [
+   "uncouth",
+   "churlish"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "uncouth",
+  "pos": "adj",
+  "meaning": "lacking good manners",
+  "example": "The uncouth guest ate with his hands and wiped them on the tablecloth.",
+  "synonyms": [
+   "boorish"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "crass",
+  "pos": "adj",
+  "meaning": "showing no sensitivity or intelligence",
+  "example": "It was crass to joke about money at the funeral.",
+  "synonyms": [
+   "crude"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "churlish",
+  "pos": "adj",
+  "meaning": "rude and ungracious",
+  "example": "It would be churlish to refuse such a generous invitation.",
+  "synonyms": [
+   "boorish"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "stark",
+  "pos": "adj",
+  "meaning": "severe or bare; sharply clear",
+  "example": "The stark room had white walls and no furniture except a bed.",
+  "synonyms": [
+   "austere",
+   "spartan"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "spartan",
+  "pos": "adj",
+  "meaning": "simple and without comfort",
+  "example": "The soldiers lived in spartan huts with no heating or hot water.",
+  "synonyms": [
+   "austere"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "understated",
+  "pos": "adj",
+  "meaning": "presented in a quiet, restrained way",
+  "example": "Her understated style, plain black with one silver ring, drew more praise than any bright dress.",
+  "synonyms": [
+   "subtle",
+   "restrained"
+  ],
+  "day": 28,
+  "week": 6,
+  "theme": "Style, taste and manners"
+ },
+ {
+  "word": "harangue",
+  "pos": "n, v",
+  "meaning": "a long, forceful, critical speech",
+  "example": "The coach delivered a twenty-minute harangue about laziness at half-time.",
+  "synonyms": [
+   "tirade",
+   "diatribe"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "diatribe",
+  "pos": "n",
+  "meaning": "a bitter verbal attack",
+  "example": "The article was a diatribe against modern architecture, with not one kind word.",
+  "synonyms": [
+   "tirade"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "tirade",
+  "pos": "n",
+  "meaning": "a long, angry speech",
+  "example": "She launched into a tirade against the airline when her bag was lost again.",
+  "synonyms": [
+   "harangue",
+   "diatribe"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "invective",
+  "pos": "n",
+  "meaning": "insulting or abusive language",
+  "example": "The debate descended into invective, with each side calling the other liars.",
+  "synonyms": [
+   "abuse",
+   "vituperation"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "excoriate",
+  "pos": "v",
+  "meaning": "to criticize very severely",
+  "example": "The judge excoriated the company for hiding the danger from its customers.",
+  "synonyms": [
+   "lambaste",
+   "castigate"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "calumny",
+  "pos": "n",
+  "meaning": "a false statement meant to damage a reputation",
+  "example": "He sued the paper over the calumny that he had stolen from his own charity.",
+  "synonyms": [
+   "slander"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "opprobrium",
+  "pos": "n",
+  "meaning": "harsh public criticism or disgrace",
+  "example": "The minister faced public opprobrium after the lies were exposed.",
+  "synonyms": [
+   "censure"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "approbation",
+  "pos": "n",
+  "meaning": "approval or praise",
+  "example": "The plan won the approbation of the board, which voted for it unanimously.",
+  "synonyms": [
+   "acclaim"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "panegyric",
+  "pos": "n",
+  "meaning": "a speech or text of high praise",
+  "example": "The biography reads like a panegyric, listing virtues and no faults.",
+  "synonyms": [
+   "eulogy"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "eulogy",
+  "pos": "n",
+  "meaning": "a speech praising someone, usually after death",
+  "example": "At the funeral, her brother gave a moving eulogy about her kindness.",
+  "synonyms": [
+   "panegyric"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "platitude",
+  "pos": "n",
+  "meaning": "a dull remark used too often to be meaningful",
+  "example": "The speech offered only platitudes about hard work and bright futures.",
+  "synonyms": [
+   "cliche"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "hyperbole",
+  "pos": "n",
+  "meaning": "deliberate exaggeration",
+  "example": "To say he had told her a million times was hyperbole.",
+  "synonyms": [
+   "exaggeration"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "euphemism",
+  "pos": "n",
+  "meaning": "a mild word used in place of a harsh one",
+  "example": "To say that someone has passed away is a euphemism for saying that the person has died.",
+  "synonyms": [
+   "polite substitute"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "caustic",
+  "pos": "adj",
+  "meaning": "bitterly sarcastic; able to burn",
+  "example": "Her caustic review left the young actor in tears.",
+  "synonyms": [
+   "acerbic"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "acerbic",
+  "pos": "adj",
+  "meaning": "sharp and harsh in tone",
+  "example": "His acerbic wit made people laugh and wince at once.",
+  "synonyms": [
+   "caustic"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "trenchant",
+  "pos": "adj",
+  "meaning": "sharp, clear and forceful",
+  "example": "Her trenchant analysis cut through the confusion and named the real cause.",
+  "synonyms": [
+   "incisive"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "glib",
+  "pos": "adj",
+  "meaning": "fluent but shallow or insincere",
+  "example": "The glib answer came too quickly to be the result of any real thought.",
+  "synonyms": [
+   "slick"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "aver",
+  "pos": "v",
+  "meaning": "to state firmly as true",
+  "example": "The witness averred that she had seen the defendant at the scene.",
+  "synonyms": [
+   "contend",
+   "assert"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "recant",
+  "pos": "v",
+  "meaning": "to withdraw a former statement or belief",
+  "example": "Under pressure, the scientist recanted his claim that the earth moves.",
+  "synonyms": [
+   "retract",
+   "repudiate"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "gainsay",
+  "pos": "v",
+  "meaning": "to deny or contradict",
+  "example": "No one could gainsay the fact that sales had doubled.",
+  "synonyms": [
+   "deny",
+   "refute"
+  ],
+  "day": 29,
+  "week": 6,
+  "theme": "Strong speech: attacking, praising, asserting and denying"
+ },
+ {
+  "word": "restive",
+  "pos": "adj",
+  "meaning": "restless and hard to control (not restful)",
+  "example": "The crowd grew restive after waiting two hours for the delayed speaker.",
+  "synonyms": [
+   "restless",
+   "fidgety"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "noisome",
+  "pos": "adj",
+  "meaning": "foul-smelling; offensive (nothing to do with noise)",
+  "example": "A noisome stench rose from the blocked drain.",
+  "synonyms": [
+   "noxious",
+   "fetid"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "disinterested",
+  "pos": "adj",
+  "meaning": "impartial; having no personal stake (not bored)",
+  "example": "We need a disinterested judge who gains nothing whichever side wins.",
+  "synonyms": [
+   "impartial",
+   "unbiased"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "nonplussed",
+  "pos": "adj",
+  "meaning": "so surprised and confused that one cannot react",
+  "example": "Nonplussed by the strange question, she stood silent, with no idea how to answer.",
+  "synonyms": [
+   "bemused",
+   "bewildered"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "inchoate",
+  "pos": "adj",
+  "meaning": "just begun and not fully formed",
+  "example": "His inchoate plan was little more than a few notes on a napkin.",
+  "synonyms": [
+   "nascent",
+   "incipient"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "meretricious",
+  "pos": "adj",
+  "meaning": "attractive on the surface but worthless (not merit)",
+  "example": "The meretricious film dazzled with effects but had nothing to say.",
+  "synonyms": [
+   "tawdry",
+   "specious"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "fulsome",
+  "pos": "adj",
+  "meaning": "excessive and insincere, especially of praise",
+  "example": "His fulsome compliments were so exaggerated that nobody believed them.",
+  "synonyms": [
+   "effusive",
+   "excessive"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "tortuous",
+  "pos": "adj",
+  "meaning": "full of twists; complicated (torturous = very painful)",
+  "example": "The tortuous mountain road had a bend every fifty meters.",
+  "synonyms": [
+   "convoluted",
+   "winding"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "venial",
+  "pos": "adj",
+  "meaning": "minor and easily forgiven (venal = corrupt)",
+  "example": "Arriving five minutes late is a venial fault, hardly worth a mention.",
+  "synonyms": [
+   "pardonable"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "enormity",
+  "pos": "n",
+  "meaning": "extreme wickedness or seriousness (not just large size)",
+  "example": "Only at the trial did the public grasp the enormity of his crimes.",
+  "synonyms": [
+   "atrocity",
+   "wickedness"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "fortuitous",
+  "pos": "adj",
+  "meaning": "happening by chance (not necessarily lucky)",
+  "example": "Their meeting was fortuitous, as both happened to miss the same train.",
+  "synonyms": [
+   "accidental",
+   "chance"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "bemused",
+  "pos": "adj",
+  "meaning": "puzzled or confused (not amused)",
+  "example": "Bemused by the contradictory signs, the tourists stood wondering which way to go.",
+  "synonyms": [
+   "nonplussed"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "peruse",
+  "pos": "v",
+  "meaning": "to read carefully and thoroughly (not to skim)",
+  "example": "She perused the contract for an hour before signing.",
+  "synonyms": [
+   "scrutinize"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "officious",
+  "pos": "adj",
+  "meaning": "too eager to give orders or unwanted help (not official)",
+  "example": "An officious clerk insisted on checking forms that needed no checking.",
+  "synonyms": [
+   "meddlesome"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "apposite",
+  "pos": "adj",
+  "meaning": "very suitable or relevant (not opposite)",
+  "example": "Her apposite example made the abstract rule immediately clear.",
+  "synonyms": [
+   "apt"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "ingenious",
+  "pos": "adj",
+  "meaning": "clever and inventive (ingenuous = naive)",
+  "example": "The ingenious device used a single spring to open, close and lock the door.",
+  "synonyms": [
+   "inventive"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "prodigious",
+  "pos": "adj",
+  "meaning": "remarkably great in size or degree (prodigal = wasteful)",
+  "example": "The child had a prodigious memory and could recite whole books.",
+  "synonyms": [
+   "enormous"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "proscribe",
+  "pos": "v",
+  "meaning": "to forbid (prescribe = to order or recommend)",
+  "example": "The law proscribes smoking in all public buildings.",
+  "synonyms": [
+   "prohibit",
+   "ban"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "ambivalent",
+  "pos": "adj",
+  "meaning": "having mixed feelings (ambiguous = unclear)",
+  "example": "She felt ambivalent about the move, excited by the job but sad to leave friends.",
+  "synonyms": [
+   "torn",
+   "conflicted"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ },
+ {
+  "word": "discrete",
+  "pos": "adj",
+  "meaning": "separate and distinct (discreet = careful, tactful)",
+  "example": "The course is divided into six discrete units, each with its own exam.",
+  "synonyms": [
+   "separate",
+   "distinct"
+  ],
+  "day": 30,
+  "week": 6,
+  "theme": "Words that do not mean what they seem to mean"
+ }
+]
